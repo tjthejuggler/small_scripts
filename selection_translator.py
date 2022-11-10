@@ -1,5 +1,7 @@
 from subprocess import Popen, PIPE
 from googletrans import Translator
+from PyDictionary import PyDictionary
+import os
 
 #to use this, make a custom keyboard shortcut for each language:
 #bash -c "python3 /home/lunkwill/projects/small_scripts/selection_translator.py -d"
@@ -12,6 +14,7 @@ def get_args():
     parser.add_argument('-e', '--english', action='store_true', help='translate selected text to english')
     parser.add_argument('-d', '--deutsch', action='store_true', help='translate selected text to german')
     parser.add_argument('-s', '--espanol', action='store_true', help='translate selected text to spanish')
+    parser.add_argument('-r', '--definition', action='store_true', help='definition of selected text')
     return parser.parse_args()
 
 #use subrocess and xsel to get the clipboard contents
@@ -24,7 +27,13 @@ def get_primary_clipboard():
 
 #create an notify message
 def notify(text):
-    p = Popen(['notify-send', text], stdin=PIPE, stdout=PIPE, stderr=PIPE)
+    #text = "testint \n hfdsufsudidsj \n fsdfahdkjfhdkasjfhkjdashfkj                          \n dfdgddgd"
+    print('text')
+    
+    msg = "notify-send ' ' '"+text+"'"
+    os.system(msg)
+    #p = Popen(['notify-send', text], stdin=PIPE, stdout=PIPE, stderr=PIPE)
+    #notify-send ' ' 'd: title,up/down: zoom,w: win_to_img,</>: rotate,*: orig,Enter/0: blah blah blah'
 
 #get translation from google translate
 def get_translation(selected_text, lang_code):
@@ -32,6 +41,16 @@ def get_translation(selected_text, lang_code):
     translation = translator.translate(selected_text, dest=lang_code)
     print(translation.text)
     return translation.text
+
+def get_definition(selected_text):
+    dictionary=PyDictionary()
+    definition = dictionary.meaning(selected_text)
+    first_key = list(definition.keys())[0]
+    definition = definition[first_key]
+    definition = ', '.join(definition)
+    print(str(definition))
+    return definition
+
 
 def main():
     selected_text = get_primary_clipboard()
@@ -43,7 +62,10 @@ def main():
     if args.deutsch:
         translation = get_translation(selected_text, 'de')
     if args.espanol:
-        translation = get_translation(selected_text, 'es')     
+        translation = get_translation(selected_text, 'es')   
+    if args.definition:
+        translation = get_definition(selected_text)
+     
     notify(translation)
 
 main()
