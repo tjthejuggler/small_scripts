@@ -21,19 +21,15 @@ def get_args():
 def get_primary_clipboard():
     p = Popen(['xsel', '-o'], stdin=PIPE, stdout=PIPE, stderr=PIPE)
     output, err = p.communicate()
-    #convert output to a string
     output = output.decode('utf-8')
     return output
 
 #create an notify message
 def notify(text):
-    #text = "testint \n hfdsufsudidsj \n fsdfahdkjfhdkasjfhkjdashfkj                          \n dfdgddgd"
-    print('text')
-    
+    print('text')    
     msg = "notify-send ' ' '"+text+"'"
     os.system(msg)
-    #p = Popen(['notify-send', text], stdin=PIPE, stdout=PIPE, stderr=PIPE)
-    #notify-send ' ' 'd: title,up/down: zoom,w: win_to_img,</>: rotate,*: orig,Enter/0: blah blah blah'
+
 
 #get translation from google translate
 def get_translation(selected_text, lang_code):
