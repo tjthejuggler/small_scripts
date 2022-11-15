@@ -19,4 +19,4 @@ with open(file, 'w') as f:
     f.write(str(counter))
     f.close()
 
-sendmessage(str(counter))
+sendmessage(str(counter) + " todos in the queue")
