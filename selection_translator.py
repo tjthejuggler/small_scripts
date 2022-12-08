@@ -47,6 +47,10 @@ def get_definition(selected_text):
     print(str(definition))
     return definition
 
+def fill_clipboard(text):
+    p = Popen(['xclip', '-selection', 'clipboard'], stdin=PIPE, stdout=PIPE, stderr=PIPE)
+    output, err = p.communicate(input=text.encode('utf-8'))
+    return output
 
 def main():
     selected_text = get_primary_clipboard()
@@ -61,7 +65,7 @@ def main():
         translation = get_translation(selected_text, 'es')   
     if args.definition:
         translation = get_definition(selected_text)
-     
+    fill_clipboard(translation)
     notify(translation)
 
 main()
