@@ -1,12 +1,16 @@
 import os
 import random
 
+#make a key shortcut like this:
+#bash -c "python3 /home/lunkwill/projects/small_scripts/blank_background.py"
+
 #get home directory
 home = os.path.expanduser("~")
 
 folder = home+"/Pictures/Wallpapers/"
 #randomly choose an image from the folder
-image = "file:///home/lunkwill/Pictures/Wallpapers/"+random.choice(os.listdir(folder))
+image = "file:///home/lunkwill/Pictures/blank.png"
+
 
 #image = 'baby.png'
 print(image)
