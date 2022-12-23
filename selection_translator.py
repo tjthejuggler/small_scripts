@@ -65,7 +65,8 @@ def main():
         translation = get_translation(selected_text, 'es')   
     if args.definition:
         translation = get_definition(selected_text)
-    fill_clipboard(translation)
+    
     notify(translation)
+    fill_clipboard(translation)
 
 main()
