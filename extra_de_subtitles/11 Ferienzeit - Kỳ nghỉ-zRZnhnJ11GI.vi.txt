@@ -1,0 +1,1521 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:14.207 --> 00:00:17.495
+Das is die Geschicte von Sascha und Anna,
+*
+Đây là câu chuyện về Sascha và Anna,
+
+00:00:17.527 --> 00:00:19.655
+die sich in Berlin eine Wohnung teilen.
+*
+họ cùng sống trong một căn hộ ở Berlin.
+
+00:00:19.687 --> 00:00:23.328
+Ihre Nachbarn sind Nic und Sam aus Amerika.
+*
+và về người hàng xóm của họ, Nic và Sam, đến từ Mỹ.
+
+00:00:24.007 --> 00:00:26.578
+Sascha braucht unbedingt Ferien.
+*
+Sascha cần đi nghỉ.
+
+00:00:26.607 --> 00:00:30.532
+Sam braucht Ferien – und Anna auch.
+*
+Sam cần đi nghỉ – và Anna cũng vậy.
+
+00:00:30.567 --> 00:00:33.457
+Und was ist mit Nic? Mmh?
+*
+Còn Nic thì sao? Mmh?
+
+00:00:33.927 --> 00:00:38.808
+Also, bleibt dran! Hier ist die nächste Folge von Extra.
+*
+Vậy, đừng rời máy! Đây là tập tiếp theo của Extra,
+
+00:01:09.680 --> 00:01:13.969
+„Mit welchen Stars würdest du in den Ferien am liebsten flirten?“
+*
+„Bạn thích tán chuyện với ngôi sao nào nhất khi đi nghỉ?“
+
+00:01:14.000 --> 00:01:15.286
+Folge 11: Ferienzeit
+*
+Tập 11: Kỳ nghỉ
+
+00:01:15.320 --> 00:01:18.449
+a) mit J Lo * a) với J Lo
+b) mit Heidi Klum * b) với Heidi Klum
+
+00:01:18.480 --> 00:01:20.721
+c) mit Kylie
+*
+c) với Kylie
+
+00:01:20.760 --> 00:01:24.048
+Mmh, schwierig, mit allen dreien!
+*
+Mhh, khó nhỉ, với cả ba!
+
+00:01:25.520 --> 00:01:29.411
+„ Was gefällt dir in den Ferien am besten an den Mädchen?“
+*
+„Khi đi nghỉ, bạn thích cái gì nhất ở một bạn gái?“
+
+00:01:29.880 --> 00:01:32.042
+a) ihre braune Haut
+*
+a) Nước da nâu
+
+00:01:32.080 --> 00:01:33.650
+b) ihre Bikinis
+*
+b) Bộ bikini
+
+00:01:33.680 --> 00:01:36.923
+- c) oder ihre … * Hay là …
+- Bügelkünste? * kỹ năng là quần áo của cô ấy?
+
+00:01:39.520 --> 00:01:43.127
+„Wo triffst du die Girls in den Ferien?“
+*
+„Khi đi nghỉ, bạn gặp các cô gái ở đâu?“
+
+00:01:43.160 --> 00:01:45.811
+a) am Strand * Ở bãi biển
+b) an der Bar * Ở quán bar
+
+00:01:45.840 --> 00:01:47.763
+c) auf der Ski-Piste
+*
+c) Ở đường trượt tuyết
+
+00:01:48.720 --> 00:01:52.691
+Hmm, am Strand treffe ich viele schöne Mädchen. Ahh …
+*
+Hmm, mình gặp nhiều gái đẹp ở bãi biển. Ahh …
+
+00:02:03.720 --> 00:02:05.768
+- Nic! * Nic!
+- Ha … * Ha …
+
+00:02:07.040 --> 00:02:10.647
+Mir reicht’s! Ich brauche unbedingt Ferien!
+*
+Em chán quá! Em rất cần đi nghỉ!
+
+00:02:11.680 --> 00:02:14.001
+Ich glaube, wir brauchen alle 	Urlaub!
+*
+Em nghĩ là chúng ta đều cần đi nghỉ!
+
+00:02:14.960 --> 00:02:18.806
+Ja, ich weiß, was du meinst – ich bin auch völlig k.o.
+*
+Ừ, anh hiểu ý em – anh cũng kiệt sức rồi.
+
+00:02:23.680 --> 00:02:27.321
+Ferien Report mit Sam Scott
+*
+Phóng sự về kỳ nghỉ của Sam Scott
+
+00:02:28.440 --> 00:02:30.522
+Hi there, Leute.
+*
+Chào các bạn.
+
+00:02:30.560 --> 00:02:32.927
+Ah! Hallo, Sam!
+*
+Ah! Chào Sam!
+
+00:02:32.960 --> 00:02:38.888
+Es ist endlich wieder Ferienzeit – und alle fahren zum Flughafen …
+*
+Cuối cùng lại là thời gian đi nghỉ – và mọi người đều đến sân bay. …
+
+00:02:38.920 --> 00:02:42.322
+Sie fliegen nach Florida – wow!
+*
+Mọi người đi Florida – wow!
+
+00:02:42.360 --> 00:02:44.328
+Thailand – ahh …,
+*
+đi Thái lan – ahh …,
+
+00:02:44.360 --> 00:02:46.442
+Ägypten – ooo …
+*
+đi Ai Cập – ooo …
+
+00:02:46.480 --> 00:02:48.687
+und Belgien.
+*
+và đi Bỉ.
+
+00:02:48.720 --> 00:02:52.327
+Belgien? Moment mal. Warum Belgien?
+*
+Bỉ à? Đợi chút. Sao lại là Bỉ?
+
+00:02:54.120 --> 00:02:57.567
+Sie reisen mit dem Flugzeug,
+*
+Bạn đi bằng máy bay,
+
+00:02:57.600 --> 00:02:59.170
+mit dem Zug,
+*
+bằng tàu,
+
+00:02:59.200 --> 00:03:01.248
+und mit dem Auto.
+*
+và bằng ô tô.
+
+00:03:04.600 --> 00:03:07.524
+Naja – vielleicht lieber nicht mit dem Auto.
+*
+À – có lẽ không đi bằng ô tô.
+
+00:03:08.960 --> 00:03:12.009
+Das ist Sam Scott für Kanal 9.
+*
+Tôi là Sam Scott, phóng viên Kênh 9.
+
+00:03:15.920 --> 00:03:18.321
+Oh! Sascha wird verrückt werden.
+*
+Oh! Sascha chắc sẽ phát rồ lên mất!
+
+00:03:19.560 --> 00:03:24.327
+Na ja … vielleicht wird’s der nächste Mode-Trend …
+*
+À … có lẽ đây sẽ là một xu hướng mốt mới …
+
+00:03:27.280 --> 00:03:31.080
+Ja, ja, kann er am Donnerstag ein Interview geben?
+*
+Vâng, vâng, anh ấy có thể đến phỏng vấn vào thứ năm được không?
+
+00:03:32.560 --> 00:03:35.245
+Nein? Und wie wäre es mit Freitag?
+*
+Không à? Thế thứ sáu thì sao?
+
+00:03:36.240 --> 00:03:38.368
+Oh, einen kleinen Moment, bitte …
+*
+Oh, chờ một chút nhé …
+
+00:03:39.880 --> 00:03:41.848
+Hallo?
+*
+Alô?
+
+00:03:43.360 --> 00:03:47.285
+Sie hätte gern 22 Garderoben?
+*
+Cô ấy muốn có 22 phòng thay đồ à?
+
+00:03:48.440 --> 00:03:50.841
+Vier für Lourdes und ihr Kindermädchen?
+*
+4 phòng cho Lourdes và người giữ trẻ!
+
+00:03:53.680 --> 00:03:56.650
+Aber wir haben nur zwei!
+*
+Nhưng chúng tôi chỉ có 2!
+
+00:03:56.680 --> 00:03:57.727
+Hallo?
+*
+Alô?
+
+00:03:58.640 --> 00:04:00.563
+Hallo?
+*
+Alô?
+
+00:04:02.560 --> 00:04:05.325
+Hah! Wer will schon Madonna sehen!
+*
+À! ai muốn Madonna đây!
+
+00:04:06.920 --> 00:04:09.969
+Hallo, hallo, sind Sie noch da?
+*
+Alô, alô, anh vẫn luôn ở đó à?
+
+00:04:11.400 --> 00:04:13.323
+Nein...
+*
+Không...
+
+00:04:14.040 --> 00:04:15.451
+Was?
+*
+Gì cơ?
+
+00:04:18.800 --> 00:04:20.325
+Barbarella?
+*
+Barbarella?
+
+00:04:20.360 --> 00:04:24.285
+Ja – der Interviewtermin für David Beckham ist okay.
+*
+Vâng – phỏng vấn David Beckham được ạ.
+
+00:04:26.000 --> 00:04:30.130
+Ja, und der für Prinzessin Caroline von Monaco auch …
+*
+Vâng, cả công chúa Caroline của xứ Monaco nữa …
+
+00:04:32.320 --> 00:04:36.041
+Nein, Madonna wird nicht kommen.
+*
+Không, Madonna không đến.
+
+00:04:40.560 --> 00:04:42.642
+Ja, in Ordnung, Barbarella.
+*
+Vâng, ổn ạ, Barbarella.
+
+00:04:43.600 --> 00:04:46.843
+Das werde ich tun. Ja, heute noch. Ja, ganz sicher.
+*
+Tôi sẽ làm. Vâng, ngay đây. Vâng, chắc chắn.
+
+00:04:49.920 --> 00:04:53.049
+Diese Frau macht mich wahnsinnig!
+*
+Con mụ này làm mình phát rồ lên mất!
+
+00:04:56.560 --> 00:04:59.564
+Ich brauche unbedingt Ferien!
+*
+Mình nhất định cần đi nghỉ!
+
+00:05:00.800 --> 00:05:03.406
+Los! Schreib da New York rein!
+*
+Nào! Chọn New York đi!
+
+00:05:04.520 --> 00:05:06.727
+Mmh, na, okay …
+*
+Mmh, được rồi, ok …
+
+00:05:06.760 --> 00:05:10.162
+Zahl der Übernachtungen … mmh, drei.
+*
+Số đêm ở lại đó… mmh, 3.
+
+00:05:11.120 --> 00:05:13.282
+Okay...
+*
+Được rồi...
+
+00:05:15.280 --> 00:05:20.161
+Wie bitte? 1300 Euro pro Person?
+*
+Lại nào? 1300 Euro/người?
+
+00:05:20.440 --> 00:05:22.522
+Mensch, das ist doch viel zu teuer!
+*
+Trời, đắt quá!
+
+00:05:22.560 --> 00:05:24.722
+Nee, da müssen wir woanders hinfliegen.
+*
+Không, chúng ta phải đi nghỉ chỗ khác thôi.
+
+00:05:24.760 --> 00:05:27.889
+Hey! Wie wär’s denn mit Las Vegas?
+*
+Này! Thế Las Vegas thì sao?
+
+00:05:27.920 --> 00:05:30.571
+Mensch, Nic, das ist doch noch teurer!
+*
+Trời, Nic, chỗ đó còn đắt hơn!
+
+00:05:30.600 --> 00:05:33.444
+Du hast immer Ideen …
+*
+Anh luôn có ý tưởng hay …
+
+00:05:33.480 --> 00:05:35.801
+Hat Nic wieder eine „geniale“ Idee gehabt?
+*
+Nic đã có ý tưởng tuyệt vời nào chưa?
+
+00:05:37.800 --> 00:05:39.848
+Ich bin total k.o.!
+*
+Em kiệt sức rồi!
+
+00:05:42.080 --> 00:05:45.766
+Sam, ich hab deinen Ferienbericht im Fernsehen gesehen.
+*
+Sam, em xem phóng sự của anh trên truyền hình về kỳ nghỉ rồi.
+
+00:05:45.800 --> 00:05:52.604
+Yeah, well, ich hab den ganzen Tag gesehen, wie andere Leute in den Urlaub fahren.
+*
+Ừ, à, anh đã dành cả ngày để quan sát mọi người đi nghỉ!
+
+00:05:53.880 --> 00:05:59.603
+Ach – so kann das nicht weitergehen. Barbarella ist eine Hexe!
+*
+À – mình không thể tiếp tục như thế này mãi được. Barbarella là một mụ phù thủy!
+
+00:05:59.640 --> 00:06:04.043
+Ich muss 24 Stunden am Tag für sie arbeiten!
+*
+Mụ ta bắt mình phải làm việc 24h/ngày!
+
+00:06:04.760 --> 00:06:07.411
+- Und warum kündigst du dann nicht? * Thế tại sao em không nghỉ việc đi?
+- Yeah, exactly? * Ừ, Chính xác đó?
+
+00:06:07.440 --> 00:06:12.321
+Ich soll meinen Job kündigen? Aber ich liebe meine Arbeit!
+*
+Em nên nghỉ việc á? Nhưng mà em thích công việc của em!
+
+00:06:13.800 --> 00:06:15.404
+Frauen!
+*
+Ôi phụ nữ!
+
+00:06:15.440 --> 00:06:18.762
+Was du jetzt brauchst – oder: Was wir alle brauchen, sind …
+*
+Cái mà cậu cần – hay là: Cái mà tất cả chúng ta cần, là …
+
+00:06:18.800 --> 00:06:22.600
+- … Ferien! * Kỳ nghỉ!
+- Ja, Urlaub machen …* Ừ, đi nghỉ …
+
+00:06:22.640 --> 00:06:25.291
+Hey, super Idee!
+*
+Ử, ý tưởng tuyệt vời
+
+00:06:26.320 --> 00:06:28.243
+Wohin fahren wir?
+*
+Chúng ta đi đâu nhỉ?
+
+00:06:28.280 --> 00:06:33.241
+Wenn ich mir ein Ferienziel aussuchen könnte …
+*
+Nếu được chọn điểm đến …
+
+00:06:33.280 --> 00:06:36.648
+dann würde ich auf Mauritius Urlaub machen.
+*
+thì mình sẽ chọn đảo Maurice.
+
+00:06:36.680 --> 00:06:39.126
+Las Vegas!
+*
+Las Vegas!
+
+00:06:39.160 --> 00:06:41.527
+Kapstadt.
+*
+Cape Town.
+
+00:06:41.560 --> 00:06:44.723
+Und wie wäre es mit England?
+*
+Thế nước Anh thì sao nhỉ?
+
+00:06:49.280 --> 00:06:52.648
+Früher bin ich immer mit meinen Eltern nach London geflogen.
+*
+Trước đây tớ từng thường xuyên đi với bố mẹ đến Luân Đôn.
+
+00:06:52.680 --> 00:06:56.924
+Shoppen bei Harrods, Tee im Buckingham Palace …
+*
+Thường đi mua sắm ở Harrods hoặc uống trà ở cung điện Buckingham …
+
+00:06:57.680 --> 00:07:01.162
+- Der arme Sam! * Khổ thân Sam!
+- London! * Luân Đôn!
+
+00:07:01.200 --> 00:07:06.491
+Hey, na klar, und du bist unser Reiseführer. Du sprichst doch am besten Englisch.
+*
+Này, tất nhiên rồi, và cậu sẽ là hướng dẫn viên cho bọn mình. Cậu nói tiếng Anh tốt nhất mà.
+
+00:07:07.960 --> 00:07:12.761
+Geniale Idee – dann kann ich endlich mal richtig einkaufen gehen …
+*
+Ý tưởng tuyệt vời – cuối cùng tớ đã có thể đi mua sắm chuẩn rồi…
+
+00:07:13.680 --> 00:07:16.809
+und mit der Königsfamilie Tee trinken …
+*
+và uống trà với gia đình hoàng gia …
+
+00:07:16.840 --> 00:07:21.164
+und mit Prinz William – ha … der sieht ja so gut aus!
+*
+và với hoàng tử William – ha … anh ấy rất đẹp trai nhé!
+
+00:07:21.200 --> 00:07:25.888
+Und die Queen liebt Hunde und Pferde – die ist bestimmt total nett.
+*
+Và Nữ hoàng rất thích chó và ngựa – bà ấy rất tử tế nhé.
+
+00:07:26.840 --> 00:07:28.888
+Und die englischen Girls … mmh!
+*
+Và những cô gái người Anh … mmh!
+
+00:07:29.840 --> 00:07:34.607
+Mensch, Sam – du musst mir beim Flirten helfen und für mich übersetzen!
+*
+Này Sam – cậu phải giúp tớ tán và dịch cho tớ!
+
+00:07:34.640 --> 00:07:37.007
+Ich werde mein Bestes tun …
+*
+Tớ sẽ cố hết sức …
+
+00:07:37.680 --> 00:07:40.570
+Hihi! Hey, wir können doch schon mal üben gehen.
+*
+Hihi! Hey, chúng ta có thể thực hành.
+
+00:07:40.600 --> 00:07:43.649
+- Sam! * Sam!
+- Äh? Ja? * À? Ừ?
+
+00:07:43.680 --> 00:07:46.490
+Hier ist noch deine Bügelwäsche!
+*
+Đây là quần áo đã giặt là của anh!
+
+00:07:46.520 --> 00:07:49.000
+Und Nic, hier ist deine.
+*
+Còn Nic, đây là của anh.
+
+00:07:58.000 --> 00:07:59.525
+Ich bin total k.o.!
+*
+Tớ kiệt sức hoàn toàn rồi!
+
+00:07:59.560 --> 00:08:02.928
+Ich brauche Ferien! Wir brauchen alle Ferien!
+*
+Tớ cần đi nghỉ! Tất cả bọn tớ đều cần đi nghỉ!
+
+00:08:02.960 --> 00:08:04.450
+Wohin fahren wir?
+*
+Chúng ta đi đâu nhỉ?
+
+00:08:04.480 --> 00:08:07.962
+Und weißt du, was wir machen? Wir fliegen nach London!
+*
+Và cậu biết không, bọn tớ đã làm gì? Bọn tớ đã đi Luân Đôn!
+
+00:08:08.000 --> 00:08:09.525
+London!
+*
+Luân Đôn!
+
+00:08:09.560 --> 00:08:11.244
+Fantastisch!
+*
+Tuyệt!
+
+00:08:12.120 --> 00:08:16.842
+… Jetzt kann ich meine Flirttricks bei den englischen Girls ausprobieren!
+*
+… Giờ thì tớ đã có thể thử một số tiểu xảo tán bọn con gái Anh rồi!
+
+00:08:16.880 --> 00:08:20.965
+Sam, du musst mir beim Flirten helfen und für mich übersetzen!
+*
+Sam, cậu phải giúp tớ tán và dịch cho tớ!
+
+00:08:21.000 --> 00:08:24.129
+Die können mir garantiert nicht widerstehen!
+*
+Bọn nó sẽ không thể cưỡng lại tớ!
+
+00:08:30.280 --> 00:08:35.286
+Okay, Sam. Stell dir vor, ich sehe ein hübsches englisches Mädchen.
+*
+Được rồi Sam, coi như tớ gặp một em gái xinh xắn người Anh.
+
+00:08:36.560 --> 00:08:41.122
+Wie sage ich dann: „Ich komme aus Deutschland.
+*
+Lúc đó tớ nói như này: „Anh đến từ Đức.
+
+00:08:41.160 --> 00:08:44.562
+Kannst du mir den Weg zu deiner Wohnung zeigen?“
+*
+Em có thể chỉ cho anh đường đến nhà em không?
+
+00:08:44.600 --> 00:08:47.365
+Right, Hm...
+*
+Được rồi, Hm...
+
+00:08:47.400 --> 00:08:52.566
+I am from Germany – can you show me the way to your apartment?
+*
+Anh đến từ Đức – em có thể chỉ cho anh đường đến nhà em không?
+
+00:08:53.720 --> 00:08:59.762
+Hello, I am from Germany – can you show me the way to your apartment?
+*
+Xin chào, anh đến từ Đức – em có thể chỉ cho anh đường đến nhà em không?
+
+00:08:59.800 --> 00:09:03.691
+Hey, that’s great. Now here’s a better one
+*
+Này, tuyệt đấy. Đây là câu hay hơn.
+
+00:09:03.720 --> 00:09:06.610
+Ah... in German, ah...:
+*
+Ah... trong tiếng Đức, ah...:
+
+00:09:06.640 --> 00:09:12.682
+„Deine Augen sind wie Sterne, sie leuchten in der Nacht.“
+*
+„Đôi mắt em trông như những ngôi sao, sáng vào ban đêm.“
+
+00:09:13.120 --> 00:09:15.885
+Hey, das ist gut. Das gefällt mir.
+*
+Này, chuẩn đấy. Hay.
+
+00:09:15.920 --> 00:09:18.048
+Wie sagt man das auf Englisch?
+*
+Thế nói câu đó như thế nào trong tiếng Anh?
+
+00:09:18.720 --> 00:09:25.046
+Your eyes are like stars – they come out at night.
+*
+Mắt em như những ngôi sao – sáng vào ban đêm.
+
+00:09:27.480 --> 00:09:33.681
+Your eyes are like stars – they come out at night.
+*
+Mắt em như những ngôi sao – sáng vào ban đêm.
+
+00:09:36.040 --> 00:09:40.170
+Ich kenn’ noch einen Trick. Der funktioniert immer:
+*
+Tớ vẫn còn cách nữa. Luôn chuẩn:
+
+00:09:42.440 --> 00:09:45.842
+Ich weiß genau, was du denkst …
+*
+Anh biết rõ em nghĩ gì  …
+
+00:09:45.880 --> 00:09:48.451
+Du würdest mich gern küssen …
+*
+Em có muốn hôn anh …
+
+00:09:51.680 --> 00:09:53.523
+No, I don’t.
+*
+Không, tớ không
+
+00:09:53.560 --> 00:09:55.927
+Du doch nicht, Sam!
+*
+Không phải cậu, Sam!
+
+00:09:55.960 --> 00:09:58.486
+Das ist nur ein Trick zum Flirten.
+*
+Đó chỉ là cách tán.
+
+00:10:14.080 --> 00:10:16.048
+- Sam? * Sam?
+- Mmh? * Hả?
+
+00:10:16.080 --> 00:10:19.971
+Kannst du mal bitte kommen? Ich brauche deine Hilfe …
+*
+Anh có thể qua đây giúp em được không ?…
+
+00:10:21.040 --> 00:10:24.283
+- mein Gepäck ist so schwer … * Hành lý của em nặng quá …
+- Ja, klar! * Ừ, nặng thật!
+
+00:10:29.600 --> 00:10:33.286
+- Oh, wirklich alle Taschen? * Oh, tất cả những túi này?
+- Ja, alle Taschen. * Vâng, tất cả.
+
+00:10:37.360 --> 00:10:40.682
+Stell das bitte da ab – ich muss alles noch mal checken.
+*
+Anh để ở đây – em phải kiểm tra lại tất cả một lần nữa.
+
+00:10:42.200 --> 00:10:47.127
+Ach du liebe Zeit, Sascha – was hast du denn alles eingepackt?
+*
+Ôi chúa ơi, Sascha – cậu mang gì thế?
+
+00:10:48.600 --> 00:10:51.524
+6 T-Shirts, 3 Paar Jeans,
+*
+6 áo T-Shirt, 3 quần bò,
+
+00:10:51.560 --> 00:10:53.608
+3 Pullover, 2 Röcke,
+*
+3 áo thun, 2 váy,
+
+00:10:53.640 --> 00:10:56.849
+4 Hosen, 2 Nachthemden, 3 Paar Turnschuhe,
+*
+4 cái quần dài, 2 áo sơ mi mặc buổi tối, 3 đôi giày thể thao,
+
+00:10:56.880 --> 00:11:00.885
+4 Paar Stiefel, 2 Paar hohe Schuhe zum Ausgehen,
+*
+4 đôi giày cao cổ, 2 đôi giày buổi tối,
+
+00:11:00.920 --> 00:11:03.048
+3 Zahnbürsten, 2 Kosmetiktaschen,
+*
+3 bàn chải đánh răng, 2 túi trang sức,
+
+00:11:03.080 --> 00:11:09.611
+5 Gürtel, 2 Jacken, zweimal Haarspray und ein Abendkleid.
+*
+5 thắt lưng, 2 bộ vest, 2 lọ xịt tóc và 1 bộ váy mặc buổi tối.
+
+00:11:10.720 --> 00:11:13.166
+Aber wir fahren doch nur 3 Tage …
+*
+Nhưng mà chúng ta chỉ đi đến đó có 3 ngày  …
+
+00:11:13.200 --> 00:11:16.682
+Man weiß nie, was passiert. Vielleicht gehen wir ins Ballett
+*
+Nhưng chúng ta không biết được cái gì sẽ đến. Có thể chúng ta sẽ xem ba lê
+
+00:11:16.720 --> 00:11:19.963
+oder die Queen lädt uns zu einer Gartenparty ein.
+*
+hoặc là Nữ hoàng mời chúng ta đến dự tiệc vườn.
+
+00:11:20.000 --> 00:11:24.324
+Oder Wimbledon, Ascot, Henley …?
+*
+Hay là Wimbledon, Ascot, Henley …?
+
+00:11:24.360 --> 00:11:26.761
+Das wird bestimmt nicht passieren!
+*
+Điều đó chắc chắn sẽ không xảy ra!
+
+00:11:28.360 --> 00:11:33.526
+Wenn Sascha nach London kommt, wird sie jeder einladen.
+*
+Khi Sascha đến Luân Đôn, cô ấy sẽ được mời đi khắp nơi!
+
+00:11:33.560 --> 00:11:37.360
+Die Engländer werden meinem Charme einfach nicht widerstehen können.
+*
+Người Anh sẽ không thể cưỡng lại được sự dễ thương của tớ.
+
+00:11:41.320 --> 00:11:44.847
+Wem werden die Engländer nicht widerstehen können?
+*
+Người Anh không thể cưỡng lại ai?
+
+00:11:47.240 --> 00:11:50.528
+- Was ist das denn? * Cái gì vậy?
+- Das ist ein Kilt. * Đây là cái váy của đàn ông.
+
+00:11:51.280 --> 00:11:53.089
+Ein Kilt?
+*
+Cái váy?
+
+00:11:53.120 --> 00:11:56.044
+Mmm, den tragen die Engländer die ganze Zeit.
+*
+Mmm, người Anh mặc cái này quanh năm.
+
+00:11:56.560 --> 00:12:02.727
+Nein, nein, nein – einen Kilt trägt man nicht in England, sondern in Schottland.
+*
+Không, không, không – Người ta không mặc váy ở Anh, mà là ở Scotland.
+
+00:12:02.760 --> 00:12:05.206
+- Ist doch das Gleiche! * Cũng vậy thôi!
+- Nein! * Không!
+
+00:12:06.920 --> 00:12:09.241
+Wessen Gepäck ist das hier?
+*
+Những thứ này của ai?
+
+00:12:09.280 --> 00:12:10.361
+Saschas.
+*
+Của Sascha.
+
+00:12:10.400 --> 00:12:12.402
+Du willst das ganze Zeug hier mitnehmen?
+*
+Em muốn mang theo tất cả những thứ này?
+
+00:12:12.440 --> 00:12:14.363
+Ja, warum nicht?
+*
+Vâng, sao?
+
+00:12:14.880 --> 00:12:21.047
+Sascha, Baby, alles, was du zum Reisen brauchst, sind:
+*
+Sascha, cưng, tất cả những thứ em cần để đi chơi là:
+
+00:12:21.080 --> 00:12:23.526
+deine Tickets,
+*
+vé,
+
+00:12:23.560 --> 00:12:25.688
+dein Geld
+*
+hộ chiếu
+
+00:12:25.720 --> 00:12:27.370
+und dein Pass.
+*
+và tiền.
+
+00:12:28.080 --> 00:12:29.889
+Noch Fragen?
+*
+Còn thắc mắc gì không?
+
+00:12:29.920 --> 00:12:31.922
+Das wird das Taxi sein!
+*
+Chắc là taxi đó!
+
+00:12:31.960 --> 00:12:33.769
+Let’s go, go, go!
+*
+Nào đi thôi, đi thôi, đi thôi!
+
+00:12:33.800 --> 00:12:37.725
+Nic und Sam, helft mir mal mit meinem Gepäck!
+*
+Nịc và Sam, mang giúp em hành lý nhé!
+
+00:12:46.040 --> 00:12:48.725
+Zum Flughafen Berlin Tegel, bitte.
+*
+Đi ra sân bay Berlin Tegel.
+
+00:13:07.360 --> 00:13:13.003
+Alles, was du zum Reisen brauchst, sind: deine Tickets, dein Geld und dein Pass.
+*
+Tất cả những cái anh cần để đi chơi là vé, tiền và hộ chiếu.
+
+00:13:13.040 --> 00:13:15.691
+Ha ha, wirklich witzig!
+*
+Ha ha, hài vãi!
+
+00:14:22.760 --> 00:14:27.448
+Wow! Schaut euch das an! Das ist toll!
+*
+Wow! Coi này! Tuyệt!
+
+00:14:27.480 --> 00:14:30.370
+Yeah, sehr englisch!
+*
+Ừ, rất là ăng lê nhé!
+
+00:14:32.920 --> 00:14:36.163
+Hello – do-you-speak-German?
+*
+Xin chào – chị có nói tiếng Đức được không?
+
+00:14:36.200 --> 00:14:38.009
+No.
+*
+Không.
+
+00:14:39.960 --> 00:14:42.247
+Do you …
+*
+Chị …
+
+00:14:42.280 --> 00:14:44.089
+are you …
+*
+chị là …
+
+00:14:44.960 --> 00:14:47.088
+- Drunk? * Say?
+- Am I drunk? * Tôi say á?
+
+00:14:47.120 --> 00:14:49.487
+No, no, sorry, sorry!
+*
+Không, không. Xin lỗi!
+
+00:14:49.520 --> 00:14:56.404
+Sascha! Sie denkt, dass du denkst, dass sie betrunken ist!
+*
+Sascha! Cô ấy nghĩ rằng em cho rằng cô ấy say!
+
+00:14:57.400 --> 00:15:01.086
+Ich wollte nur sagen, dass wir etwas trinken möchten.
+*
+Em chỉ muốn nói rằng chúng ta có thể gọi cái gì để uống không thôi.
+
+00:15:01.120 --> 00:15:02.929
+Ich mach’ das.
+*
+Để anh gọi.
+
+00:15:08.720 --> 00:15:11.451
+- Can we have a drink, please? * Chúng tôi muốn uống cái gì đó được không?
+- No * Không
+
+00:15:12.400 --> 00:15:14.243
+- Sie sagt nein. * Cô ấy nói không.
+- Und warum nicht? * Sao lại không?
+
+00:15:14.280 --> 00:15:16.806
+- Why not? * Tại sao không?
+- There’s no tables. * Không có bàn.
+
+00:15:18.000 --> 00:15:22.244
+Sie sagt, dass sie keinen freien Tisch für uns hat.
+*
+Cô ấy nói không có bàn trống cho chúng ta
+
+00:15:22.280 --> 00:15:25.523
+- Und dieser hier? * Thế cái bàn kia?
+- No. *  Không.
+
+00:15:25.560 --> 00:15:27.881
+Und dieser hier?
+* 
+Thế cái này?
+
+00:15:27.920 --> 00:15:30.810
+- No. * Không.
+- How about that one right there? * Thế còn cái bàn ngay đây?
+
+00:15:30.840 --> 00:15:33.411
+It’s reserved.
+* 
+Cái này có người đặt trước rồi.
+
+00:15:34.680 --> 00:15:37.524
+Sie sagt, dass der Tisch reserviert ist.
+*
+Cô ấy nói là đã có người đặt trước.
+
+00:15:37.560 --> 00:15:39.130
+Und für wann?
+*
+Cho lúc nào  nhỉ?
+
+00:15:39.160 --> 00:15:40.969
+When for?
+*
+Cho lúc nào  nhỉ?
+
+00:15:42.000 --> 00:15:44.241
+5 o’clock.
+*
+Lúc 5h.
+
+00:15:44.280 --> 00:15:48.126
+Fünf Uhr? Aber es ist erst um drei.
+*
+5h? Nhưng bây giờ mớilà 3h.
+
+00:15:48.160 --> 00:15:52.006
+- Yeah, it’s like 3 pm now! * Ừ, hình như bây giờ là 3h!
+- I have to set the table. * Tôi phải chuẩn bị bàn.
+
+00:15:52.840 --> 00:15:55.320
+Sie muss den Tisch noch decken.
+*
+Cô ấy phải chuẩn bị bàn.
+
+00:15:55.360 --> 00:15:57.727
+Aber sie hat zwei Stunden Zeit!
+*
+Nhưng mà cô ấy có 2 tiếng để làm việc đó!
+
+00:15:59.480 --> 00:16:03.690
+- Yeah. That’s like two hours! * Ừ. Có nghĩa là 2 tiếng!
+- It takes time. * Cần có thời gian.
+
+00:16:03.720 --> 00:16:06.963
+Okay … Don’t worry. Fine.
+*
+OK … không sao. Được rồi.
+
+00:16:07.040 --> 00:16:09.725
+Kommt, gehen wir.
+*
+Thôi, chúng ta đi.
+
+00:16:09.760 --> 00:16:14.766
+But if you reserve a table you can come in.
+*
+Nếu các bạn đặt bàn thì có thể ở lại.
+
+00:16:15.440 --> 00:16:17.363
+Was hat sie gesagt?
+*
+Cô ấy nói gì?
+
+00:16:17.400 --> 00:16:21.883
+Sie hat gesagt, wenn wir reservieren, können wir hier essen.
+*
+Cô ấy nói là nếu chúng ta đặt trước bàn thì chúng ta có thể ăn ở đây.
+
+00:16:24.400 --> 00:16:28.041
+Right, ok – can we book a table, please?
+*
+Được rồi, chúng tôi đặt bàn được không?
+
+00:16:28.080 --> 00:16:30.481
+Certainly – what time for?
+*
+Được – cho lúc mấy giờ?
+
+00:16:30.520 --> 00:16:33.364
+Ooh – let me think – 3 o’clock.
+*
+Ooh – để tôi nghĩ – 3 giờ được không?
+
+00:16:33.400 --> 00:16:35.926
+Ooh – let me see.
+*
+Ooh – để tôi xem nhé.
+
+00:16:36.760 --> 00:16:39.730
+Oh yes – I can just squeeze you in – that table here.
+*
+Oh vâng – tôi có thể cho các bạn vào – cái bàn kia.
+
+00:16:48.320 --> 00:16:49.890
+… Wir sind jetzt hier in England …
+*
+…  Hiện giờ bọn chị đã ở Anh …
+
+00:16:49.920 --> 00:16:55.086
+wo die Königsfamilie und der hübsche Prinz William leben.
+*
+nơi gia đình hoàng gia và Hoàng tử William rất đẹp trai sống.
+
+00:16:55.120 --> 00:16:57.646
+Der sieht ja so gut aus!
+*
+Hoàng tử rất dễ thương!
+
+00:16:57.680 --> 00:17:02.163
+Ich glaube, ich habe genug Kleider mitgebracht …
+*
+Chị nghĩ rằng chị mang theo đủ quần áo …
+
+00:17:02.200 --> 00:17:05.488
+Wimbledon, Ascot, Henley...
+*
+Wimbledon, Ascot, Henley...
+
+00:17:06.720 --> 00:17:09.246
+Mom! Hi, I just had to call you.
+*
+Chào mẹ!, con phải gọi cho mẹ.
+
+00:17:09.280 --> 00:17:15.606
+I’m in this English tea room – The Jubilee Tea Rooms.
+*
+Con đang ở phòng trà Anh - Phòng trà Kỷ niệm.
+
+00:17:15.640 --> 00:17:18.849
+Are the waitresses polite?
+*
+Phục vụ bàn có lễ phép không á?
+
+00:17:18.880 --> 00:17:20.564
+Kind of…
+*
+Cũng ổn…
+
+00:17:25.640 --> 00:17:29.440
+Right. What would you like to drink?
+*
+Được rồi, các bạn muốn uống gì nào?
+
+00:17:29.960 --> 00:17:31.883
+Was möchten Sie trinken?
+*
+Các bạn muốn uống gì?
+
+00:17:33.560 --> 00:17:35.528
+Oh. Eine Cola bitte.
+*
+Oh. Làm ơn cho một coca.
+
+00:17:35.960 --> 00:17:37.689
+Yeah, I’ll have a coke too, please.
+*
+Vâng, tôi cũng uống Coca nhé.
+
+00:17:37.720 --> 00:17:39.370
+Für mich auch eine Cola.
+*
+Tôi cũng thế.
+
+00:17:40.560 --> 00:17:46.010
+Nein, man sollte sich immer der Kultur des Reiselandes anpassen.
+*
+Không, nhập gia là phải tùy tục.
+
+00:17:46.040 --> 00:17:52.764
+Now, I would like to have a nice cup of tea, please!
+*
+Làm ơn cho tôi một ly trà!
+
+00:17:53.520 --> 00:17:55.329
+Which tea?
+*
+Trà gì?
+
+00:17:56.720 --> 00:17:59.883
+Was für einen Tee möchtest du?
+*
+Cậu muốn uống trà gì?
+
+00:17:59.920 --> 00:18:03.970
+Keine Ahnung – äh – was für Tee gibt es denn hier?
+*
+Tớ không biết – äh – họ có gì nhỉ?
+
+00:18:04.880 --> 00:18:06.689
+What kind of teas have you got?
+*
+Chị có loại trà gì?
+
+00:18:06.720 --> 00:18:11.123
+We’ve got: Darjeeling, Keynan, English Breakfast, Earl Grey, Lady Grey, camomile, peppermint,
+*
+Chúng tôi có trà: Darjeeling, Keynan, English Breakfast, Earl Grey, Lady Grey, camomile, peppermint,
+
+00:18:11.160 --> 00:18:16.371
+Imperial, Oolong, jasmin, Indian, Green and Yellow – tea.
+*
+Imperial, Oolong, jasmin, Indian, Green and Yellow
+
+00:18:17.240 --> 00:18:20.244
+Ich hätte gern ’ne Cola.
+*
+Cho tôi một coca.
+
+00:18:23.760 --> 00:18:26.206
+Would you like anything to eat?
+*
+Các bạn muốn ăn gì?
+
+00:18:27.000 --> 00:18:29.401
+Möchten Sie etwas zu essen?
+*
+Các bạn muốn ăn gì?
+
+00:18:31.000 --> 00:18:32.809
+Yeah. What have you got?
+*
+Ừ. Chị có gì nhỉ?
+
+00:18:33.640 --> 00:18:34.766
+Egg and Chips.
+*
+Trứng và khoai tây chiên.
+
+00:18:34.800 --> 00:18:36.370
+Eier mit Pommes.
+*
+Trứng và khoai tây chiên.
+
+00:18:37.840 --> 00:18:41.287
+- Sausage and Chips. * Xúc xích và khoai tây chiên.
+- Würstchen mit Pommes. * Xúc xích và khoai tây chiên.
+
+00:18:41.320 --> 00:18:44.130
+- Fish and Chips. * Cá và khoai tây chiên.
+- Fisch mit Pommes. * Cá và khoai tây chiên.
+
+00:18:44.160 --> 00:18:46.731
+- Cheese and Chips. * Pho mai và khoai tây chiên.
+- Käse mit Pommes. * Pho mai và khoai tây chiên.
+
+00:18:47.640 --> 00:18:50.803
+- Pie and Chips. * Bánh và khoai tây chiên.
+- Pastete mit Pommes. * Bánh và khoai tây chiên.
+
+00:18:50.840 --> 00:18:52.410
+- And Chicken and… * Và gà và …
+- Pommes. * Khoai tây chiên.
+
+00:18:52.440 --> 00:18:55.523
+Chicken and croquette potatoes.
+*
+Gà và khoai tây viên chiên xù.
+
+00:18:55.560 --> 00:18:57.403
+Okay, all right…
+*
+OK, được rồi…
+
+00:18:57.440 --> 00:18:59.363
+Also alles mit Pommes.
+*
+Vậy là mọi thứ với khoai tây chiên.
+
+00:18:59.400 --> 00:19:02.563
+Apart from chicken! Or I have cake.
+*
+Ngoài gà ra! Tôi có bánh.
+
+00:19:02.600 --> 00:19:05.080
+- Toartee.
+- Toarti?
+
+00:19:05.120 --> 00:19:08.488
+Nein, ich glaube, sie meint Torte.
+*
+Không, tớ nghĩ là cô ấy muốn nói cái bánh.
+
+00:19:08.520 --> 00:19:12.286
+- Oh, Torte, bitte. * Oh, bánh, vâng!
+- Oh, Torte, please. * Oh, cho bánh đi.
+
+00:19:17.800 --> 00:19:21.168
+Das ist eine Tussi …
+*
+Tính cách kiểu gì nhỉ …
+
+00:19:21.200 --> 00:19:24.886
+Sag mal, sind alle Engländerinnen so?
+*
+Có phải mọi cô gái Anh đều như vậy không?
+
+00:19:24.920 --> 00:19:26.888
+Absolutely!
+*
+Đúng vậy!
+
+00:19:37.120 --> 00:19:39.566
+Das gibt’s doch nicht!
+*
+Không lẽ nào!
+
+00:19:39.960 --> 00:19:43.567
+- Was denn? * Gì cơ?
+- Dort drüben … in der Ecke! * Đằng kia … trong góc đó!
+
+00:19:43.600 --> 00:19:46.331
+- Ja? * Ừ?
+- Da ist er! * Chính anh ấy!
+
+00:19:46.360 --> 00:19:50.888
+- Wer? * Ai?
+- Na, William! Du weißt schon … * Mà cậu biết rồi đó! William …
+
+00:19:50.920 --> 00:19:56.245
+- Welcher William? * William nào?
+- Welcher William? – Prinz William! * William nào á? Hoàng tử William đấy!
+
+00:19:58.840 --> 00:20:02.242
+Bist du sicher? Das kann nicht sein!
+*
+Cậu chắc không? Không thể nào!
+
+00:20:02.280 --> 00:20:06.683
+Na klar. Das hier sind die Jubilee Tea Rooms!
+*
+Đúng rồi. Đây là phòng trà Kỷ niệm!
+
+00:20:06.720 --> 00:20:08.529
+Die Queen kommt auch immer hierher.
+*
+Nữ hoàng thường đến đây.
+
+00:20:08.560 --> 00:20:11.131
+Ja, das stimmt, aber ...
+*
+Đúng rồi, nhưng mà ...
+
+00:20:12.320 --> 00:20:15.881
+Ich muss mit ihm sprechen … Sind meine Haare okay?
+*
+Tớ phải nói chuyện với anh ấy  … Tóc tai thế này ổn không?
+
+00:20:15.920 --> 00:20:18.366
+Ja!
+*
+Ổn!
+
+00:20:18.400 --> 00:20:21.131
+- Lippenstift? * Son môi?
+- Ja. * Được.
+
+00:20:21.160 --> 00:20:22.969
+Und mein Top?
+*
+Phần trên cơ thể?
+
+00:20:25.000 --> 00:20:26.809
+Mmh … Ja!
+*
+Mmh … Được!
+
+00:20:32.680 --> 00:20:36.048
+Na los – hier kommt Sascha!
+*
+Nào – Sascha đi đây!
+
+00:20:36.080 --> 00:20:40.449
+- Wo will denn Sascha hin? * Sacha đi đâu nhỉ?
+- Prinz William sitzt dort drüben am Tisch! * Hoàng tử William đang ngồi ở bàn kia!
+
+00:20:40.480 --> 00:20:42.164
+No way!
+*
+Không thể nào!
+
+00:20:43.240 --> 00:20:45.846
+Eure Majestät!
+*
+Thưa hoàng tử!
+
+00:20:49.840 --> 00:20:52.286
+That is definitely not Prince William …
+*
+Chắc chắn đó không phải là Hoàng tử William …
+
+00:20:52.320 --> 00:20:54.288
+Niemals.
+*
+Không bao giờ.
+
+00:20:54.320 --> 00:20:58.325
+Ja ja, Sascha – immer wieder die Alte …
+*
+Vâng vâng, vãi cả Sacha …
+
+00:20:58.360 --> 00:21:00.806
+Yep …
+
+00:21:00.840 --> 00:21:03.286
+Pah! Deutsche Männer sind viel besser als englische Männer.
+*
+Pah! Những người Anh chẳng có gì để so với người Đức.
+
+00:21:03.320 --> 00:21:08.247
+Die haben viel mehr Stil, Humor, Klasse.
+*
+Người Đức có phong cách, hài hước và đẳng cấp hơn hẳn.
+
+00:21:10.600 --> 00:21:12.409
+Torte.
+*
+Bánh.
+
+00:21:17.240 --> 00:21:23.043
+Hey, Nic. Ich glaube, die Kellnerin steht auf dich.
+*
+Này Nic. Tớ nghĩ cô bồi bàn thấy cậu ngon đấy.
+
+00:21:23.080 --> 00:21:27.369
+Probier doch mal einen deiner coolen Flirttricks …
+*
+Thử tán xem nào …
+
+00:21:27.400 --> 00:21:30.847
+Na ja – die ist eigentlich nicht mein Typ …
+*
+À – cô ấy không phải mẫu người tớ thích …
+
+00:21:30.880 --> 00:21:34.487
+Bisher ist noch keine Engländerin dein Typ gewesen …
+*
+Chả có cô gái Anh nào thuộc mẫu người anh thích cả …
+
+00:21:34.520 --> 00:21:37.842
+Die haben einfach meinen deutschen Charme nicht verstanden!
+*
+Vì đơn giản họ không hiểu gì về sự dễ thương của người Đức!
+
+00:21:37.880 --> 00:21:41.726
+- Na los – sie kommt zurück! * Nào, cô ấy quay lại rồi!
+- Und welchen, und welchen Flirttrick? * Thế tán như nào nhỉ?
+
+00:21:41.760 --> 00:21:43.683
+Die Sterne! Die Sterne!
+*
+Những ngôi sao! Những ngôi sao!
+
+00:21:43.800 --> 00:21:47.850
+Ah okay – jetzt weiß ich wieder.
+*
+À được rồi – tớ nhớ rồi.
+
+00:21:47.880 --> 00:21:49.689
+Fräulein!
+*
+Cô ơi!
+
+00:21:51.720 --> 00:21:58.365
+Your teeth are like stars – they come out at night …
+*
+Răng của em như sao, sáng vào ban đêm …
+
+00:22:10.640 --> 00:22:13.610
+Was hab ich denn gesagt?
+*
+Mình đã nói gì nhỉ?
+
+00:22:34.280 --> 00:22:36.248
+Tä! Typisch englisch!
+*
+Vãi chưởng! Rất là ăng lê!
+
+00:22:36.280 --> 00:22:37.884
+Psst! Sei ruhig, Nic!
+*
+Xuỵt! Yên nào, Nic!
+
+00:22:37.920 --> 00:22:42.084
+Ich hab’ ein Date mit ihm! Ich hab’ ein Date mit ihm!
+*
+Tớ có cuộc hẹn với anh ấy! Tớ có cuộc hẹn với anh ấy!
+
+00:22:42.120 --> 00:22:44.009
+Wie? Mit Prinz William?
+*
+Sao? Hẹn với hoàng tử William à?
+
+00:22:44.040 --> 00:22:50.002
+Ach, Nic, natürlich nicht mit Prinz William – so dumm bin ich auch wieder nicht.
+*
+À, Nic, tất nhiên không phải với Hoàng tử William – em không ngốc đến vậy đâu.
+
+00:22:51.200 --> 00:22:52.440
+Nein.
+*
+Không.
+
+00:22:52.480 --> 00:22:58.567
+Sein Name ist Toby – und heute Abend gehen wir in einen Club.
+*
+Anh ấy là Toby – và tối nay bọn em sẽ đi chơi hộp đêm.
+
+00:22:58.600 --> 00:22:59.931
+Hey, that’s great!
+*
+Này, tuyệt đấy!
+
+00:22:59.960 --> 00:23:03.362
+Wow! Und wohin gehen wir?
+*
+Wow! Thế chúng ta đi đâu nhỉ?
+
+00:23:03.400 --> 00:23:05.801
+Nicht wir! Toby und ich!
+*
+không phải chúng ta! Chỉ là Toby và em!
+
+00:23:05.840 --> 00:23:09.481
+Ja, aber Sascha – wir müssen doch auf dich aufpassen.
+*
+Nhưng mà Sascha – bọn mình phải hộ tống cậu.
+
+00:23:10.200 --> 00:23:12.726
+Du wirst uns nicht einmal bemerken!
+*
+Bọn anh sẽ ở xa, không theo dõi gần đâu!
+
+00:23:14.040 --> 00:23:16.725
+- Ah, na gut. * À, được rồi.
+- Clubbing! * Đi hộp đêm!
+
+00:23:16.760 --> 00:23:21.209
+Wir gehen in einen Club voller englischer Mädchen!
+*
+Chúng ta đi hộp đêm với bọn con gái Anh à!
+
+00:23:21.240 --> 00:23:24.210
+Clubbing? Oh, let’s boogie, baby!
+*
+Đi hộp đêm? Oh, nhảy đi anh!
+
+00:23:24.240 --> 00:23:26.766
+Just can’t resist you strong macho Germans. Macho-Männer!
+*
+Em không thể cưỡng lại sự dễ thương của người Đức nam tính!
+
+00:23:26.800 --> 00:23:29.371
+Macho-Männer!
+*
+Đàn ông nam tính!
+
+00:23:53.240 --> 00:23:55.481
+Nächste Woche in Extra:
+*
+Tuần tới trong Extra:
+
+00:23:55.520 --> 00:23:59.366
+Deutschland spielt gegen Amerika – bei der Fußball-WM.
+*
+Đội Đức và Mỹ sẽ trạm chán – ở Cúp bóng đá thế giới.
+
+00:23:59.400 --> 00:24:01.641
+Nic bekommt einen Anruf.
+*
+Nic nhận được cuộc gọi.
+
+00:24:02.200 --> 00:24:05.761
+Sascha hat einen sehr schlechten Tag.
+*
+Sascha có một ngày tồi tệ.
+
+00:24:05.800 --> 00:24:09.168
+Extra – das dürft ihr nicht verpassen!
+*
+Extra - đừng bỏ lỡ tập tiếp theo!
+

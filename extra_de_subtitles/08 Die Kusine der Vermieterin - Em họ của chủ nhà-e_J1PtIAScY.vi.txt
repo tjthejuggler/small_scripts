@@ -1,0 +1,1439 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:14.687 --> 00:00:17.372
+Das ist die Geschichte von Sascha und Anna,
+*
+Đây là câu chuyện về Sascha và Anna,
+
+00:00:17.407 --> 00:00:20.092
+die sich in Berlin eine Wohnung teilen.
+*
+họ cùng sống trong một căn hộ ở Berlin.
+
+00:00:20.127 --> 00:00:24.769
+Und ihrem Nachbarn, Nic. und Sam aus Amerika.
+*
+và về người hàng xóm của họ, Nico và Sam, đến từ Mỹ.
+
+00:00:25.487 --> 00:00:29.128
+Nic weiß, dass Sam sehr reich ist.
+*
+Nico biết là Sam rất giàu có.
+
+00:00:29.167 --> 00:00:32.137
+Und Sascha weiß, dass Sam sehr reich ist.
+*
+Và Sascha cũng biết là Sam rất giàu.
+
+00:00:32.167 --> 00:00:36.297
+Aber Anna weiß nicht, dass Sam sehr reich ist.
+*
+Nhưng Anna không biết là Sam rất giàu.
+
+00:00:37.207 --> 00:00:40.370
+Seht Euch die nächste Folge von Extra an.
+*
+Đón xem tập tiếp theo của Extra.
+
+00:01:14.400 --> 00:01:19.930
+"An alle Mieter - Meine Kusine, Ihre Vermieterin, hat diese Woche Urlaub."
+*
+"Thưa quý khách thuê nhà - chị họ tôi, chủ nhà của các bạn, đi nghỉ tuần này."
+
+00:01:19.960 --> 00:01:22.088
+"also bin ich zuständig!"
+*
+"Do vậy, tôi chịu trách nhiệm quản lý nhà!"
+
+00:01:22.120 --> 00:01:25.727
+"Die gleichen Regeln gelten: Keine Haustiere, keine Partys."
+*
+"Các quy định vẫn giữ nguyên: không vật nuôi, không hội hè."
+
+00:01:25.760 --> 00:01:27.922
+"Gruß, Edeltraut Berg."
+*
+"Trân trọng, Edeltraut Berg."
+
+00:01:28.120 --> 00:01:33.570
+Edeltraut Berg! Die klingt ja schrecklich! Schlimmer als die Tarantel!
+*
+Edeltraut Berg! Nghe có vẻ tởm nhỉ! Tồi tệ hơn cả con nhện!
+
+00:01:33.600 --> 00:01:36.126
+Wenn das möglich ist.
+*
+Nếu cái đó áp dụng.
+
+00:01:36.160 --> 00:01:38.242
+Glaubst du, sie wird sagen: " Keine Regale."?
+*
+Cậu có nghĩ là cô ta sẽ nói: " Không được phép có giá sách."?
+
+00:01:38.280 --> 00:01:42.001
+Das darf sie nicht! Es wird fantastisch aussehen!
+*
+Cô ta không làm vậy đâu! Cái giá sách trông sẽ rất tuyệt!
+
+00:01:42.040 --> 00:01:45.726
+"Regal Timbol, klar lackiertes Buchen-Furnier."
+*
+"Cái giá sách gỗ sồi sơn mài bóng loáng!"
+
+00:01:45.760 --> 00:01:48.843
+-" Mit sechs Rollen." * " Có 6 bánh xe"
+-" Und Fernsehtisch!" * Và giá để TV"
+
+00:01:48.880 --> 00:01:50.405
+Also...
+*
+Vậy thì...
+
+00:01:54.680 --> 00:01:59.129
+- Also, wo fangen wir an? * Vậy chúng ta bắt đầu từ đâu nhỉ?
+- Anna! Ganz einfach! * Anna! rất đơn giản!
+
+00:01:59.160 --> 00:02:04.849
+Regel Nr. eins: man muss immer erst die Anleitung lesen.
+*
+Quy tắc số 1: luôn đọc hướng dẫn sử dụng.
+
+00:02:06.120 --> 00:02:08.851
+Das dauert sicher nur eine Woche.
+*
+Việc này sẽ phải mất 1 tuần.
+
+00:02:08.880 --> 00:02:11.770
+- Gut, trinken wir erst etwas. * Được rồi. Chúng ta cần uống gì đó.
+- Ja, gut. * Ừ, được rồi.
+
+00:02:12.160 --> 00:02:14.447
+- Milch, Anna? * Sữa nhé, Anna?
+- Mhm. * Mhm.
+
+00:02:17.000 --> 00:02:19.207
+"Schuldschein - Nic."
+*
+"Giấy nợ - Nic."
+
+00:02:20.240 --> 00:02:23.767
+- Es ist keine Milch da... Mineralwasser? * Đây không phải là sữa... nước khoáng?
+- Ja, in Ordnung. * Ừ, được rồi.
+
+00:02:24.920 --> 00:02:27.446
+"Schuldschein - Nic."
+*
+"Giấy nợ - Nic."
+
+00:02:29.840 --> 00:02:31.649
+"Schuldschein - Nic."
+*
+"Giấy nợ - Nic."
+
+00:02:32.440 --> 00:02:35.444
+"Schuldschein - Nic." Eine Frechheit ist das!
+*
+"Giấy nợ - Nic.". Sao anh ta lại làm thế nhỉ!
+
+00:02:38.120 --> 00:02:40.407
+Willst du eine Cola?
+*
+Cậu có muốn uống Coca không?
+
+00:02:40.440 --> 00:02:43.922
+Ach, danke, Sascha - die habe ich gerade gesucht!
+*
+À, cảm ơn Sascha - đúng cái anh đang tìm!
+
+00:02:43.960 --> 00:02:46.930
+- Nic! * Nic!
+- Tut mir Leid. * Xin lỗi.
+
+00:02:49.280 --> 00:02:54.969
+Schreib die mit auf die Liste oder sag' deinem Mitbewohner, er soll dir was zu essen kaufen!
+*
+Ghi cái này vào danh sách mua hàng hoặc là bảo Sam cần mua cái gì để ăn nhé!
+
+00:02:58.240 --> 00:03:01.483
+- Hä? Erkennst du hier irgend jemand? * Này? Anh có nhận ra ai đây không?
+- Nö! * Không!
+
+00:03:01.520 --> 00:03:04.524
+- Du hast nicht gewusst, dass Sam reich ist? * Anh không biết là Sam giàu à?
+- Nö! * Không!
+
+00:03:05.720 --> 00:03:09.406
+- Sam, bist Du das? * Sam, đây là cậu à?
+- Ja, mit meinen Eltern. * Ừ, với bố mẹ tôi.
+
+00:03:09.440 --> 00:03:14.844
+- Pssst! Verstanden? * Xuỵt! Rõ chưa?
+- Pssst! Don't tell the girls. * Xuỵt! Không nói cho bọn con gái.
+
+00:03:15.880 --> 00:03:18.042
+Wir beide sprechen uns noch.
+*
+Chúng ta sẽ nói chuyện một chút với nhau sau.
+
+00:03:19.160 --> 00:03:22.130
+He! Was sind das für Kartons, Anna?
+*
+Này! Mấy cái hộp các tông đó là gì vậy, Anna?
+
+00:03:22.160 --> 00:03:25.846
+Das ist unser neues Regal, Sam.
+*
+Đó là cái giá sách mới của bọn em, Sam.
+
+00:03:25.880 --> 00:03:30.522
+Ich helfe dir beim Aufbauen. Wo ist die Anleitung?
+*
+Anh sẽ giúp em lắp giá. Hướng dẫn sử dụng đâu nhỉ?
+
+00:03:30.560 --> 00:03:32.562
+Mensch, Sam.
+*
+Này, Sam.
+
+00:03:32.600 --> 00:03:36.366
+Regel Nr. 1: Niemals die Anleitung lesen!
+*
+Quy tắc số 1: Đừng bao giờ đọc hướng dẫn sử dụng!
+
+00:03:36.400 --> 00:03:40.246
+Ihr habt auch so einen Zettel von unserer neuen Vermieterin.
+*
+Các anh cũng nhận được thông báo của chủ nhà mới.
+
+00:03:41.360 --> 00:03:46.685
+- Edeltraut Berg! * Edeltraut Berg!
+- Die Kusine der Tarantel! * Cô em họ của con nhện (chủ nhà)
+
+00:03:46.720 --> 00:03:48.404
+Klingt gruselig!
+*
+Nghe dễ sợ nhỉ!
+
+00:03:48.440 --> 00:03:50.966
+Wie sollen wir sie nennen? Den Skorpion?
+*
+Chúng ta nên gọi cô ta là gì? Con bạch tuộc?
+
+00:03:51.000 --> 00:03:53.606
+Die Kröte!
+*
+Con cóc!
+
+00:03:53.640 --> 00:03:58.851
+Das Rhinozeros? Miete! Miete!
+*
+Con tê giác? Tiền thuê nhà đâu! Tiền thuê nhà đâu!
+
+00:04:01.400 --> 00:04:04.483
+Miete! Oder ich greife an!
+*
+Nộp tiền thuê nhà! Hoặc là tôi sẽ trừ tài khoản!
+
+00:04:06.480 --> 00:04:08.289
+Wer ist da?
+*
+Ai đó?
+
+00:04:08.320 --> 00:04:12.325
+Ähm, hier ist Nic, aus Wohnung B.
+*
+À, Tôi Nic đây, ở phòng B.
+
+00:04:12.360 --> 00:04:14.647
+Sie wollen mit Wohnung A sprechen?
+*
+Chị muốn nói chuyện với phòng A à?
+
+00:04:14.680 --> 00:04:16.682
+Ja, aber das ist...
+*
+Vâng, nhưng đây là...
+
+00:04:24.040 --> 00:04:27.203
+Hallo? Hier ist Wohnung A.
+*
+Allô? Đây là phòng A.
+
+00:04:27.240 --> 00:04:30.289
+Nein, ich bin Nic aus Wohnung B.
+*
+Không, tôi là Nic ở phòng B.
+
+00:04:31.720 --> 00:04:34.200
+Ja, ich weiß, das ist nicht meine Wohnung.
+*
+Vâng, tôi biết, đây không phải là phòng của tôi.
+
+00:04:34.880 --> 00:04:36.689
+Tut mir Leid.
+*
+Xin lỗi.
+
+00:04:39.320 --> 00:04:42.210
+Gut, sofort.
+*
+Được rồi, ngay và luôn đây.
+
+00:04:43.760 --> 00:04:45.330
+Nun?
+*
+Bây giờ?
+
+00:04:45.360 --> 00:04:49.888
+Das war das Rhinozeros. Ich soll runter kommen and zwar sofort!
+*
+Con tê giác đó. Tớ phải đi xuống đó ngay và luôn!
+
+00:04:49.920 --> 00:04:52.127
+Oh Nic … bad luck man …
+*
+Oh Oh Nic … gặp hạn rồi …
+
+00:04:52.160 --> 00:04:53.491
+Oh je …
+*
+Oh tội nghiệp …
+
+00:04:54.560 --> 00:04:58.406
+Frag' sie doch, ob sie Milch hat.
+*
+Hỏi cô ấy xem cô ấy có sữa không.
+
+00:04:58.440 --> 00:05:00.681
+oder Brot, oder Kekse …?
+*
+hay là bánh mỳ, bánh quy …?
+
+00:05:05.120 --> 00:05:11.924
+Gut, also: Karton A öffnen und Regalbrett Nummer eins herausnehmen.
+*
+Được rồi, mở hộp A và lấy cái giá số 1 ra.
+
+00:05:11.960 --> 00:05:13.803
+Ähm … welcher ist Karton A?
+*
+À … Hộp A là hộp nào?
+
+00:05:13.840 --> 00:05:15.968
+Ich habe Karton C …
+*
+Anh có hộp C …
+
+00:05:16.680 --> 00:05:18.682
+… und das hier ist Karton D!
+*
+… còn đây là hộp D!
+
+00:05:26.040 --> 00:05:29.522
+Aha - gefunden! Regalbrett Nummer 1!
+*
+Aha - đã thấy cái giá số 1!
+
+00:05:29.560 --> 00:05:34.248
+Das ist Brett Nummer 2. Ich habe Regalbrett Nr. 1.
+*
+Đây là cái giá số 2. Em có cái giá số 1.
+
+00:05:34.280 --> 00:05:36.886
+Nein, das hier ist Brett Nummer 1.
+*
+Không, đây là cái giá số 1.
+
+00:05:36.920 --> 00:05:39.366
+Das ist ein Albtraum!
+*
+Thực sự là ác mộng!
+
+00:05:39.400 --> 00:05:42.927
+Okay, Anna, lies die Anleitung vor.
+*
+Được rồi, Anna, đọc hướng dẫn sử dụng.
+
+00:05:44.200 --> 00:05:47.488
+Regalbrett Nummer 1 an die Wand stellen.
+*
+Dựa cái giá số 1 vào tường.
+
+00:05:52.200 --> 00:05:56.250
+Sam, so fallen die Bücher doch runter.
+*
+Sam, như thế thì sách sẽ rơi xuống đất.
+
+00:06:02.680 --> 00:06:06.446
+Und? Wie war das Rhinozeros?
+*
+Sao? Con tê giác thế nào?
+
+00:06:06.480 --> 00:06:09.324
+Ach, na ja, es ging so.
+*
+À, em biết đấy, cũng được.
+
+00:06:09.360 --> 00:06:15.163
+Und das Regalbrett oben drauf. Sascha?
+*
+Còn cái giá phía trên cùng. Sascha?
+
+00:06:21.760 --> 00:06:24.923
+- Willst du es so, Sam? * Như thế này à, Sam?
+- Äh...ja. * À...ừ.
+
+00:06:25.920 --> 00:06:29.242
+Hast du in deinem Leben schon mal ein Regal aufgebaut?
+*
+Anh đã từng lắp giá sách bao giờ chưa?
+
+00:06:29.280 --> 00:06:30.725
+Oh, ja!
+*
+Oh, rồi!
+
+00:06:30.760 --> 00:06:33.411
+Oder machen das die Dienstboten für dich?
+*
+Hay là nhân viên phục của của anh làm việc này cho anh?
+
+00:06:35.520 --> 00:06:38.888
+- Nein, so geht das nicht! * Không, như thế không ổn!
+- Schon gut! Ich mache es! * Được mà! Tớ làm được!
+
+00:06:39.360 --> 00:06:42.728
+Nein! Nein! Nein! Nic macht das schon!
+*
+Không! Không! Không! Nic làm!
+
+00:07:02.200 --> 00:07:04.009
+Gut gemacht, Nic!
+*
+Làm chuẩn đấy, Nic!
+
+00:07:04.600 --> 00:07:06.682
+- Wow! * Wow!
+- Das war gar nichts. * Không có gì.
+
+00:07:06.720 --> 00:07:11.282
+Und wo gehört dieses Stück hin …?
+*
+Còn miếng này lắp vào đâu …?
+
+00:07:22.640 --> 00:07:25.484
+Hi - Ich bin Edeltraut Berg …
+*
+Xin chào - Tôi là Edeltraut Berg …
+
+00:07:27.720 --> 00:07:29.245
+Die neue Vermieterin …
+*
+Chủ nhà mới …
+
+00:07:45.560 --> 00:07:48.450
+Mom, I’m building some new shelves!
+*
+Mẹ à, con đang lắp giá sách mới!
+
+00:07:50.200 --> 00:07:52.009
+Why are you laughing?
+*
+Sao mẹ lại cười?
+
+00:07:52.680 --> 00:08:02.488
+Sabine, Sams Familie, die Familie Scott, ist die viert-reichste Familie in Amerika!
+*
+Sabine, Gia đình Sam, gia đình Scott, là gia đình giàu thứ 4 ở Mỹ!
+
+00:08:02.520 --> 00:08:04.727
+Nicht zu fassen!
+*
+Thật không thể tin được!
+
+00:08:04.760 --> 00:08:08.048
+Ich glaube, Nic hat es die ganze Zeit gewusst.
+*
+Tớ nghĩ là Nic đã biết điều này từ lâu.
+
+00:08:08.080 --> 00:08:11.243
+- Du hast nicht gewusst, dass Sam reich ist? * Anh không biết là Sam giàu à?
+- Nöh. * Không!
+
+00:08:11.280 --> 00:08:12.691
+Er war wieder hier!
+*
+Anh ấy lại ở đây!
+
+00:08:12.720 --> 00:08:14.324
+Schuldschein – Nic.
+*
+Giấy nợ – Nic.
+
+00:08:14.360 --> 00:08:16.806
+Er hat sich die Milch, das Wasser ...
+*
+Anh ấy nợ sữa, nước ...
+
+00:08:16.840 --> 00:08:19.525
+... das Brot und die Kekse geliehen.
+*
+... bánh mỳ và bánh quy.
+
+00:08:19.560 --> 00:08:21.767
+Ah, eine Frechheit ist das!
+*
+Ah, đúng là hết trò rồi!
+
+00:08:21.800 --> 00:08:27.807
+Unsere Vermieterin ... die Tarantel ... ist im Urlaub.
+*
+Chủ nhà của bọn tớ ... con nhện ... đi nghỉ mát.
+
+00:08:27.840 --> 00:08:31.526
+Deshalb ist ihre Kusine jetzt hier.
+*
+Do vậy cô em họ của bà ấy ở đây.
+
+00:08:31.560 --> 00:08:36.043
+Sehr streng!
+*
+Rất chặt chẽ!
+
+00:08:36.080 --> 00:08:39.926
+Die Kusine der Tarantel – klingt gruselig.
+*
+Cô em họ của chủ nhà - nghe dễ sợ nhỉ.
+
+00:08:40.440 --> 00:08:44.604
+Doch dann bin ich zu ihr nach unten gegangen ...
+*
+Sau đó tớ xuống nhà gặp cô ta ...
+
+00:08:46.120 --> 00:08:48.771
+... und Jo ... ei ei ei!
+*
+... còn Jo ... ei ei ei!
+
+00:08:50.600 --> 00:08:54.366
+Mom, has dad ever put a shelf up?
+*
+Mẹ à, bố đã từng lắp giá sách chưa?
+
+00:08:54.400 --> 00:08:57.483
+Never? I thought so.
+*
+Chưa bao giờ à? Con đã nghĩ vậy.
+
+00:09:04.360 --> 00:09:07.170
+Oh, hallo … ich bin Sascha …
+*
+Oh, xin chào. Tôi là Sascha.
+
+00:09:07.200 --> 00:09:09.089
+Und das ist Anna …
+*
+Còn đây là Anna …
+
+00:09:09.120 --> 00:09:12.169
+Und das ist Sam aus Amerika …
+*
+Và đây là Sam từ Mỹ …
+
+00:09:12.200 --> 00:09:15.966
+- Hallöchen, Sam … * Chào  …
+- Hi. * Xin chào.
+
+00:09:16.000 --> 00:09:18.321
+Sam wohnt nebenan mit Nic …
+*
+Sam ở phòng bên với Nic …
+
+00:09:18.360 --> 00:09:23.651
+Ach ja, Nic … den kenne ich ja schon … stimmt doch, oder?
+*
+À, Nic … tôi đã gặp rồi nhỉ … đúng không?
+
+00:09:23.680 --> 00:09:25.808
+Ja, stimmt.
+*
+Ừ, đúng rồi.
+
+00:09:25.840 --> 00:09:29.606
+Wir müssen über die Miete sprechen … in deiner Wohnung?
+*
+Chúng ta cần nói chuyện về tiền thuê nhà của anh … trong phòng của anh nhé?
+
+00:09:29.640 --> 00:09:31.369
+Ähh … super!
+*
+À … tuyệt!
+
+00:09:37.200 --> 00:09:42.366
+Den Abstand zwischen 2 Regalbrettern messen …
+*
+Đo khoảng cách giữa 2 cái giá …
+*
+
+00:09:42.400 --> 00:09:48.487
+Okay. Halt mal bitte, Anna.
+*
+Được rồi, giữ lấy nào, Anna.
+
+00:09:50.960 --> 00:09:57.206
+Ja, okay. So sollte es gehen …
+*
+Ừ, được rồi, chuẩn rồi đấy …
+
+00:09:57.440 --> 00:10:00.046
+Na bitte!
+*
+Nào!
+
+00:10:00.080 --> 00:10:04.244
+Ähh … Sam … meinst du, das ist richtig so?
+*
+Ähh … Sam …anh nghĩ như này là chuẩn rồi à?
+
+00:10:04.280 --> 00:10:07.887
+Das ist zu nah aneinander!
+*
+Gần nhau quá!
+
+00:10:07.920 --> 00:10:09.570
+Sam!
+*
+Sam!
+
+00:10:13.360 --> 00:10:14.930
+Ha, Sam.
+*
+Này Sam.
+
+00:10:15.840 --> 00:10:19.481
+Die fünf reichsten Familien in Amerika.
+*
+5 gia đình giàu nhất nước Mỹ.
+
+00:10:20.120 --> 00:10:22.327
+Die Familie Scott.
+*
+Gia đình Scott.
+
+00:10:23.120 --> 00:10:25.487
+Da bist Du, Sam.
+*
+Đây là anh à, Sam.
+
+00:10:25.520 --> 00:10:28.763
+- Bitte sage nichts zu Anna * Đừng nói với Anna nhé
+- Warum? * Vì sao?
+
+00:10:30.400 --> 00:10:34.166
+- Weil Sascha … * Vì Sascha …
+- Ja? * Vâng?
+
+00:10:34.200 --> 00:10:39.843
+Weil … ich bin in Anna verliebt.
+*
+Vì … anh yêu Anna.
+
+00:10:46.560 --> 00:10:48.369
+DING – DONG!
+*
+DING – DONG!
+
+00:10:49.200 --> 00:10:53.489
+Und wo willst du hin? Du siehst ja aus wie John Travolta!
+*
+Anh đi đâu thế? Trông anh ăn mặc như John Travolta?
+
+00:10:55.600 --> 00:10:57.409
+Er geht mit mir aus.
+*
+Anh ấy đi chơi với tôi.
+
+00:10:58.680 --> 00:11:02.651
+He, Nic, Schätzchen! Du siehst ja spitze aus!
+*
+Này Nic, anh yêu! Trông anh hơi bị đỉnh đấy!
+
+00:11:02.680 --> 00:11:05.081
+Das ist schon das dritte Mal diese Woche.
+*
+Tuần này đi chơi 3 lần cơ à.
+
+00:11:05.120 --> 00:11:11.480
+Das vierte. Wir waren im Theater, im Kino, beim Abendessen,
+*
+Lần thứ 4 rồi. Chúng tôi đi  rạp hát, xem phim, ăn tối,
+
+00:11:11.520 --> 00:11:17.482
+und gestern Abend beim Salsa-Tanzen.
+*
+còn tối hôm qua, chúng tôi đi nhảy salsa.
+
+00:11:20.880 --> 00:11:23.451
+Ich bin die Salsa-Königin!
+*
+Tôi là nữ hoàng nhảy salsa.
+
+00:11:23.480 --> 00:11:25.608
+Was macht ihr denn heute Abend?
+*
+Thế tôi nay anh chị làm gì?
+
+00:11:25.640 --> 00:11:30.009
+- Heute gibt's Karaoke! * Tối nay hát Karaoke!
+- Ich bin die Karaoke-Königin! * Tôi là nữ hoàng hát karaoke!
+
+00:11:31.040 --> 00:11:35.090
+- Komm Schatz, wir gehen! Tschüss, Kinderchen. * Mình đi thôi anh yêu! Chào các nhóc!
+- Tschüss! * Chào!
+
+00:11:41.720 --> 00:11:45.361
+Ich bin die Karaoke-Königin!
+*
+Tôi là nữ hoàng karaoké!
+
+00:11:45.400 --> 00:11:47.641
+Die singt bestimmt wie eine Kröte!
+*
+Hát như một con cóc
+
+00:11:50.680 --> 00:11:53.445
+Also, Sam, wo waren wir?
+*
+Này Sam, chúng ta đang ở đâu rồi nhỉ?
+
+00:11:53.480 --> 00:11:56.848
+Okay, Anna. Ich glaube, jetzt geht's.
+*
+Được rồi Anna, anh nghĩ là ổn rồi.
+
+00:12:29.280 --> 00:12:33.410
+Schon gut, Louis. Schlaf schön.
+*
+Được rồi Louis, ngủ ngon.
+
+00:12:46.440 --> 00:12:52.243
+Ich habe geklopft, aber die Musik war so laut, ihr habt mich nicht gehört!
+*
+Tôi đã gõ cửa nhưng nhạc quá to nên các bạn không nghe thấy!
+
+00:12:52.760 --> 00:12:54.888
+Kann ich euch mal sprechen?
+*
+Tôi có thể nói chuyện với các bạn được không?
+
+00:12:58.760 --> 00:13:04.483
+Regel Nr. 2: Keine Unterwäsche auf der Heizung.
+*
+Quy tắc số 2: Không được để quần áo lót lên lò sưởi.
+
+00:13:04.520 --> 00:13:06.329
+Ich räum' sie schon weg!
+*
+Để tôi!
+
+00:13:07.480 --> 00:13:10.086
+Nur damit wir uns verstehen...
+*
+Các cô hiểu rõ chưa nào...
+
+00:13:10.120 --> 00:13:16.401
+Keine Partys. Und keine Besucher.
+*
+Không hội hè. Và không khách khứa.
+
+00:13:16.440 --> 00:13:19.171
+Und vor allem keine Jungs.
+*
+Đặc biệt là khách con trai.
+
+00:13:20.040 --> 00:13:23.840
+Und vor allem keine Jungs von nebenan.
+*
+Nhất là bọn con trai ở gần phòng.
+
+00:13:24.600 --> 00:13:30.846
+Und vor allem nicht Nic. Der gehört mir! Alles klar?
+*
+Nhất là Nic. Anh ấy là của tôi! Rõ chưa?
+
+00:13:31.840 --> 00:13:33.888
+Ja, alles klar.
+*
+Vâng, rõ rồi.
+
+00:13:34.560 --> 00:13:36.210
+Bis demnächst!
+*
+Gặp lại sau nhé!
+
+00:13:36.880 --> 00:13:40.089
+Übrigens. Das Regal ist nicht gerade.
+*
+Này. Cái giá này không thẳng.
+
+00:13:41.360 --> 00:13:43.408
+Für wen hält sich die eigentlich?
+*
+Cô ta nghĩ mình là ai nhỉ!
+
+00:13:43.440 --> 00:13:46.887
+- Für die Kusine der Vermieterin. * Là em họ của chủ nhà?
+- Danke, Anna. * Cảm ơn Anna.
+
+00:13:46.920 --> 00:13:50.970
+Aber kein Sam! Kein Nic! Eine Frechheit ist das!
+*
+Nhưng mà không Sam! không Nic! Cô ta có dám không!
+
+00:13:54.560 --> 00:13:56.961
+Dienstag
+*
+Thứ 3
+
+00:13:59.200 --> 00:14:03.569
+Mittwoch
+*
+Thứ 4
+
+00:14:05.400 --> 00:14:09.041
+Donnerstag
+*
+Thứ 5
+
+00:14:12.840 --> 00:14:14.444
+Freitag
+*
+Thứ 6
+
+00:14:20.960 --> 00:14:24.760
+Na, wie geht es Edeltraut?
+*
+Này? Edeltraut thế nào?
+
+00:14:26.240 --> 00:14:28.049
+Problems?
+*
+Có chuyện à?
+
+00:14:33.160 --> 00:14:36.528
+Na ja, sie ist ganz nett.
+*
+Cậu biết đây, cô ấy dễ thương.
+
+00:14:37.520 --> 00:14:39.522
+Aber?
+*
+Nhưng sao?
+
+00:14:41.000 --> 00:14:43.241
+Sie ist echt zu viel.
+*
+Nhưng cô ta làm tớ mệt.
+
+00:14:43.280 --> 00:14:45.089
+Wie meinst du?
+*
+Ý của cậu là gì?
+
+00:14:45.600 --> 00:14:47.523
+Schau mal.
+*
+Xem này.
+
+00:14:50.200 --> 00:14:59.370
+Das hier, das hier, das hier, das und das...
+*
+Cái này, cái này, cái này, và đây nữa...
+
+00:15:02.080 --> 00:15:06.961
+Und eine Energie hat die Frau! Ich bin total fertig!
+*
+Và tất cả những thứ đó! Tớ kiệt sức!
+
+00:15:07.000 --> 00:15:08.809
+- Hallo! * Xin chào!
+- Oh, nein! * Oh, không!
+
+00:15:08.840 --> 00:15:10.569
+Nic! Bist du da?
+*
+Nic! Anh có ở đó không?
+
+00:15:10.600 --> 00:15:14.730
+Ich kann nicht! Sam, werd sie irgendwie los, bitte!
+*
+Tớ không thể! Sam, làm cái gì để cố ấy đi nào!
+
+00:15:14.760 --> 00:15:18.162
+- Sie loswerden? Wie? * Cho cô ấy đi à? Làm cách nào nhỉ?
+- Sag irgendwas! * Nói gì đó đi!
+
+00:15:18.200 --> 00:15:21.204
+- Nicilein! * Nic thân yêu!
+- Was soll ich sagen? * Tớ phải nói gì nhỉ?
+
+00:15:22.280 --> 00:15:25.409
+Sag ihr dass es mir nicht gut geht.
+*
+Nói với cô ấy là tớ không khỏe.
+
+00:15:25.440 --> 00:15:30.207
+Sag' ihr, ich habe einen Igel gefressen oder dass ich zum Mond gefahren bin!
+*
+Nói với cô ấy là tớ đã ăn một con nhím hay là tớ đã đi lên mặt trăng!
+
+00:15:30.240 --> 00:15:32.004
+Komm, lass uns tanzen gehen!
+*
+Nào, đi nhảy đi anh!
+
+00:15:33.000 --> 00:15:36.800
+- Na mach schon, Sam! * Nào Sam!
+- Okay, all right, okay. Gut, gut. * OK, được rồi, được rồi.
+
+00:15:40.640 --> 00:15:42.449
+Hi!
+*
+Xin chào!
+
+00:15:43.040 --> 00:15:45.407
+- Du bist nicht Nic. * Anh không phải là Nic.
+- Äh, nein. * Ờ không.
+
+00:15:46.560 --> 00:15:51.202
+Nics Igel ist zum Mond gefahren.
+*
+Con nhím của Nic đã đi lên mặt trăng.
+
+00:15:51.240 --> 00:15:54.210
+- Wie bitte? * Gì cơ?
+- Äh...sorry! * Ờ... xin lỗi.
+
+00:15:54.240 --> 00:15:57.926
+Nics Igel geht es nicht gut.
+*
+Con nhím của Nic không khỏe.
+
+00:15:57.960 --> 00:16:00.440
+Nic ist traurig.
+*
+Nic buồn.
+
+00:16:00.480 --> 00:16:06.089
+So? Dann muss er tanzen kommen, das macht fröhlich.
+*
+Thì sao? Anh ấy phải đi nhảy để vui lên.
+
+00:16:06.120 --> 00:16:09.806
+- Er kann nicht tanzen. * anh ấy không thể nhảy.
+- Warum? * Vì sao?
+
+00:16:09.840 --> 00:16:16.200
+Nic ist auf den Igel getreten. Ohne Schuhe. Tut sehr weh.
+*
+Nic dẫm phải con nhím. Không đi giày. Rất là đau.
+
+00:16:16.240 --> 00:16:18.368
+Igitt. Wie eklig!
+*
+Vãi chưởng!
+
+00:16:18.400 --> 00:16:21.404
+Ja, also kann er nicht tanzen.
+*
+Anh ấy không thể nhảy.
+
+00:16:23.880 --> 00:16:26.247
+Das ist aber schade.
+*
+Tiếc nhỉ.
+
+00:16:26.280 --> 00:16:30.808
+- Na ja, macht nichts. * Ờ, không sao.
+- Ja. Tut mir Leid. Tschüss! * Vâng. Xin lỗi. Tạm biệt
+
+00:16:31.640 --> 00:16:34.484
+- Dann musst du eben mitkommen. * Vậy anh đi thay nhé.
+- Wie bitte? * Gì cơ?
+
+00:16:34.520 --> 00:16:36.568
+Na los! Gehen wir tanzen!
+*
+Nào! Đi thôi!
+
+00:16:43.960 --> 00:16:47.328
+Hi Mom. I’m exhausted.
+*
+Chào mẹ! Con bị kiệt sức.
+
+00:16:47.360 --> 00:16:49.408
+No it was not the shelf-building.
+*
+Không, không phải là do việc đóng giá sách.
+
+00:16:49.440 --> 00:16:51.249
+It was the dancing!
+*
+Là do đi nhảy.
+
+00:16:51.720 --> 00:16:54.929
+Ja, Sam baut noch immer das Regal auf.
+*
+Vâng, Sam luôn cố lắp giá sách.
+
+00:16:54.960 --> 00:16:58.009
+Ich weiß nicht, warum er unbedingt helfen will ...
+*
+Tớ không hiểu sao Sam rất thích giúp đỡ tớ...
+
+00:16:58.040 --> 00:17:00.042
+aber es gefällt mir!
+*
+nhưng tớ thích như vậy!
+
+00:17:00.080 --> 00:17:04.130
+Und der arme Nic! Er sieht völlig erschöpft aus!
+*
+Khổ thân Nic! Anh ấy có vẻ kiệt sức!
+
+00:17:04.160 --> 00:17:09.291
+Er geht dauernd mit Edeltraut aus ... zum Abendessen, ins Theater,
+*
+Anh ấy đi chơi liên tục với Edeltraut... ăn tối, đi rạp hát,
+
+00:17:09.320 --> 00:17:13.211
+ins Kino, zum Salsa-Tanzen ... und zum Karaoke!
+*
+coi phim, nhảy Salsa...và hát Karaoke!
+
+00:17:13.240 --> 00:17:16.050
+Ich bin die Karaoke-Königin.
+*
+Tôi là nữ hoàng karaoke.
+
+00:17:16.080 --> 00:17:18.686
+Ich glaube, Sascha mag sie nicht.
+*
+Tớ nghĩ là Sacha không thích cô ta.
+
+00:17:19.920 --> 00:17:24.562
+Ur, who did I go dancing with? Edeltraut.
+*
+Ờ, Con đi nhảy với ai á? Edeltraut.
+
+00:17:24.600 --> 00:17:26.728
+Oh, just the landlady’s cousin.
+*
+Oh, chỉ là cô em họ của chủ nhà.
+
+00:17:33.320 --> 00:17:35.482
+Schrauben festziehen.
+*
+Siết chặt ốc vít.
+
+00:17:37.560 --> 00:17:41.690
+Fast fertig! Anna, du bist ein Genie!
+*
+Gần xong rồi! Anna, cậu thật tuyệt!
+
+00:17:44.800 --> 00:17:47.963
+- Hallo, Sam. * Chào Sam.
+- Hi, Anna. * Chào Anna.
+
+00:17:49.280 --> 00:17:52.489
+Was ist los? Ist alles in Ordnung?
+*
+Chuyện gì vậy? Ổn chứ?
+
+00:17:52.520 --> 00:17:55.285
+Ich bin total erschöpft.
+*
+Anh hoàn toàn kiệt sức.
+
+00:17:55.320 --> 00:17:57.368
+Was ist passiert?
+*
+Có chuyện gì?
+
+00:17:57.400 --> 00:18:03.328
+- Gestern Abend, Edeltraut und ich... * Tối qua, Edeltraut và anh
+- Ja? * Vâng?
+
+00:18:04.320 --> 00:18:07.802
+- Ich musste mit Edeltraut... * Edeltraut đã bắt anh...
+- Ja? * Vâng?
+
+00:18:07.840 --> 00:18:10.047
+..tanzen gehen.
+*
+..đi nhảy.
+
+00:18:10.720 --> 00:18:14.486
+Anna, sie tanzt wie ein Rhinozeros!
+*
+Anna, cô ta nhảy như con tê giác!
+
+00:18:16.560 --> 00:18:19.564
+Hey, Anna, schau mal!
+*
+Này Anna, xem này!
+
+00:18:19.600 --> 00:18:22.604
+Du bist fast fertig mit dem Regal!
+*
+Em đã gần xong cái giá rồi!
+
+00:18:23.320 --> 00:18:26.005
+Ja, nur noch ein bisschen abmessen.
+*
+Vâng, chỉ cần đo thêm một chút.
+
+00:18:26.040 --> 00:18:28.771
+Warte, ich helfe dir.
+*
+Đợi nhé, để anh giúp em!
+
+00:18:45.320 --> 00:18:48.802
+- Sorry. * Xin lỗi.
+- Ach, das ist in Ordnung. * À, không sao.
+
+00:18:48.840 --> 00:18:52.970
+So was passiert wenn man zusammen arbeitet.
+*
+Luôn diễn ra khi mọi người làm việc cùng nhau.
+
+00:18:53.920 --> 00:18:56.082
+Wo waren wir?
+*
+Chúng ta đang ở đâu nhỉ?
+
+00:18:56.120 --> 00:18:59.044
+Metallteile einbauen.
+*
+Gắn những phần kim loại.
+
+00:19:04.320 --> 00:19:06.482
+Sam... Oh, Sam!
+*
+Sam... Oh, Sam!
+
+00:19:07.520 --> 00:19:09.443
+Oh, Sam!
+*
+Oh, Sam!
+
+00:19:13.080 --> 00:19:15.651
+Hilfe! Versteckt mich!
+*
+Cứu tôi với! Giấu tôi đi!
+
+00:19:18.760 --> 00:19:20.649
+- Edeltraut? * Edeltraut?
+- Edeltraut. * Edeltraut.
+
+00:19:20.680 --> 00:19:24.969
+- Sascha, bitte rette mich! * Sascha, cứu anh với!
+- Warum? * Sao lại phải cứu?
+
+00:19:25.000 --> 00:19:26.684
+Es ist Edeltraut!
+*
+Là Edeltraut!
+
+00:19:26.720 --> 00:19:30.122
+Ich war einkaufen: Alles, was ich mir geliehen hatte.
+*
+Anh đang đi mua: tất cả những thứ mà anh vay.
+
+00:19:33.040 --> 00:19:34.849
+Nicht schlecht.
+*
+Được đấy.
+
+00:19:34.880 --> 00:19:39.283
+Aber dann hat mich Edeltraut gesehen und ist mir nachgejagt!
+*
+Nhưng lúc đó Edeltraut nhìn thấy anh và truy đuổi anh!
+
+00:19:39.320 --> 00:19:41.129
+Nic!
+*
+Nic!
+
+00:19:44.120 --> 00:19:47.010
+Ah, da kommt sie! Die Frau ist echt zu viel!
+*
+Ah! Cô ấy đấy! Đủ rồi!
+
+00:19:47.040 --> 00:19:50.010
+Ich weiß, dass du da drin bist, Nic.
+*
+Em biết là anh ở trong đó, Nic.
+
+00:19:50.480 --> 00:19:52.960
+Sascha! Anna!
+*
+Sascha! Anna!
+
+00:19:53.600 --> 00:19:56.206
+Ich sagte doch: Keine Jungs!
+*
+Tôi đã nói rồi: bọn con trai không được phép ở đây!
+
+00:19:57.240 --> 00:20:01.529
+- Soll ich sie loswerden, Nic? * Anh muốn em đuổi cô ấy đi, Nic?
+- Ja, bitte, Sascha. * Ừ, làm đi, Sascha.
+
+00:20:01.560 --> 00:20:05.565
+- Aber wie? * Nhưng làm thế nào?
+- Mir fällt schon was ein. Anna! * Em biết cách rồi. Anna!
+
+00:20:07.240 --> 00:20:09.129
+Lass Fräulein Berg herein.
+*
+Để cho cô Berg vào.
+
+00:20:15.160 --> 00:20:17.606
+Da bist du also, Nic!
+*
+Anh đây rồi, Nic!
+
+00:20:17.640 --> 00:20:20.291
+Endlich habe ich dich gefunden.
+*
+Cuối cùng em đã tìm thấy anh rồi.
+
+00:20:21.760 --> 00:20:23.808
+Und Sam...
+*
+Còn anh, Sam...
+
+00:20:24.880 --> 00:20:27.360
+Super Tänzer!
+*
+Anh nhảy giỏi lắm!
+
+00:20:27.400 --> 00:20:31.485
+- Sascha, ich habe doch gesagt: " Keine Jungs" ! * Sacha, tôi đã nói với cô là không cho phép bọn con trai ở đây!
+- Ja, das stimmt. * Vâng, hoàn toàn đúng.
+
+00:20:31.520 --> 00:20:34.763
+- Und vor allem keine Jungs von nebenan! * Đặc biệt là bọn con trai ờ gần.
+- Richtig. * Đúng.
+
+00:20:34.800 --> 00:20:38.361
+- Und vor allem... * Đặc biệt là...
+- Und vor allem nicht Nic. * Đặc biệt không phải là Nic.
+
+00:20:40.920 --> 00:20:42.763
+Schuldschein Sascha
+*
+Giấy nợ Sascha
+
+00:20:43.800 --> 00:20:45.609
+Der gehört mir!
+*
+Anh ta là của tôi!
+
+00:20:48.120 --> 00:20:51.567
+Nic. Oh, Nic...
+*
+Nic. Oh, Nic...
+
+00:20:53.200 --> 00:20:56.841
+Wenn ich das meiner Kusine erzähle!
+*
+Tôi sẽ kể với chị tôi!
+
+00:20:57.800 --> 00:20:59.802
+Ich fahre nach Hause!
+*
+Tôi về đây!
+
+00:21:02.520 --> 00:21:05.126
+Ach, übrigens, Sam.
+*
+À, này Sam.
+
+00:21:06.240 --> 00:21:11.280
+Da ist ein Telegramm für dich. Es ist von deinem Vater:
+*
+Có một bức điện cho anh. Từ bố anh:
+
+00:21:11.840 --> 00:21:16.562
+Am coming to Berlin to meet the Chancellor.
+*
+Bố đang đến Berlin để gặp thủ tướng Đức.
+
+00:21:17.680 --> 00:21:21.969
+My jet arrives at Berlin Tegel at midday.
+*
+Máy bay của bố đến sân bay Berlin Tegel vào buổi trưa.
+
+00:21:22.560 --> 00:21:25.848
+Will phone. Father.
+*
+Sẽ gọi cho con. Bố.
+
+00:21:28.080 --> 00:21:33.246
+Oh, Sam, ich glaube, du bist viel eher mein Typ.
+*
+Oh, Sam, Em nghĩ rằng anh hợp với em hơn.
+
+00:21:33.280 --> 00:21:36.011
+Das glaube ich nicht, Edeltraut.
+*
+Tôi không nghĩ vậy, Edeltraut.
+
+00:21:38.800 --> 00:21:41.531
+- Auf Wiedersehen! * Tạm biệt!
+- Und nicht die Tür zu werfen! * Và đừng đóng sầm cửa nhé!
+
+00:21:49.640 --> 00:21:51.688
+So, die wären wir los.
+*
+Tự do rồi nhé.
+
+00:21:51.720 --> 00:21:54.849
+Ja. Also, wo waren wir?
+*
+Ừ, thế chúng mình đang ở đâu nhỉ?
+
+00:21:54.880 --> 00:21:58.009
+Nein, nein - wir müssen uns nicht mehr küssen.
+*
+Không, không - chúng ta không được hôn nhau.
+
+00:21:58.040 --> 00:22:01.249
+- Was meinst du? * Ý em là sao?
+- Edeltraut ist weg. * Edeltraut biến rồi.
+
+00:22:01.280 --> 00:22:04.568
+Der Trick mit dem Kuss hat funktioniert.
+*
+Thủ đoạn hôn hít đã có tác dụng.
+
+00:22:12.640 --> 00:22:16.611
+Dein Vater hat seinen eigenen Jet und trifft den Bundeskanzler?
+*
+Bố anh có máy bay riêng và sẽ gặp thủ tướng?
+
+00:22:17.280 --> 00:22:18.406
+Ja.
+*
+Ừ.
+
+00:22:18.440 --> 00:22:22.001
+Aber Geld ist nicht alles, Schätzchen.
+*
+Nhưng mà tiền không phải tất cả, em yêu.
+
+00:22:22.040 --> 00:22:27.604
+Anna, ich kaufe dir ein Regal, das passt.
+*
+Anna, anh sẽ mua cho em một cái giá sách vừa vặn.
+
+00:22:30.280 --> 00:22:33.841
+- Na, dann messen wir besser mal. * Rồi tốt hơn là chúng ta đo đạc kích thước nó.
+- Yeah. * Ừ.
+
+00:22:51.800 --> 00:22:54.371
+- Nic! * Nic!
+- Was? * Gì thế?
+
+00:22:54.400 --> 00:22:57.404
+Ich hatte einen ganz komischen Traum.
+*
+Tớ có một giấc mơ kỳ lạ.
+
+00:22:58.320 --> 00:23:01.130
+- Ach ja? * Thế à?
+- Ja. * Ừ.
+
+00:23:04.800 --> 00:23:06.689
+Moment mal...
+*
+Đợi lát...
+
+00:23:08.840 --> 00:23:10.649
+Oder war es ein Traum?
+*
+Thế giấc mơ thế nào?
+
+00:23:15.320 --> 00:23:20.087
+Sam, dein Traum ist mein Albtraum.
+*
+Sam, giấc mơ của cậu là cơn ác mộng của tớ.
+
+00:23:23.000 --> 00:23:25.082
+Gute Nacht, Sam.
+*
+Ngủ ngon nhé, Sam.
+
+00:23:25.120 --> 00:23:27.168
+Gute Nacht, Nic.
+*
+Ngủ ngon, Nic.
+
+00:23:31.200 --> 00:23:33.885
+Mom, I’m in love.
+*
+Mẹ à, con yêu rồi.
+
+00:23:33.920 --> 00:23:37.561
+No ... not the landlady’s cousin.
+*
+Không... không phải cô em họ của chủ nhà.
+
+00:23:38.280 --> 00:23:42.365
+No ... not with ... Mom, no, it’s not wedding bells with her.
+*
+Không... không phải với ... Mẹ à, không phải đám cưới với cô ấy.
+
+00:23:42.400 --> 00:23:45.643
+Mom, no don’t tell Dad, Mom
+*
+Không, đừng nói với bố, mẹ ạ!
+
+00:23:46.080 --> 00:23:47.650
+Come back, Mom!
+*
+Quay lại đi mẹ!
+
+00:23:50.040 --> 00:23:52.646
+Und nun müssen wir unsere Freunde verlassen.
+*
+Giờ chúng ta phải tạm biệt các bạn của chúng ta.
+
+00:23:53.200 --> 00:23:55.726
+Aber – wird Nic berühmt?
+*
+Nhưng – Nic có trở nên nổi tiếng không?
+
+00:23:56.080 --> 00:23:59.129
+Findet Sascha den Mann ihrer Träume?
+*
+Sascha có gặp được người đàn ông trong mơ của cô ấy?
+
+00:23:59.160 --> 00:24:05.281
+Und kehrt Sam nach Amerika zurück?  Mit oder ohne Anna?
+*
+Và Sam sẽ trở về Mỹ? Có hay không có Anna đi cùng?
+
+00:24:05.320 --> 00:24:06.560
+Hmm? Wer weiß ...
+*
+Hmm? Ai mà biết được ...
+
+00:24:06.600 --> 00:24:09.763
+Tschüs und Auf Wiedersehen bei Extra.
+*
+Tạm biệt và hẹn gặp lại cùng Extra.
+

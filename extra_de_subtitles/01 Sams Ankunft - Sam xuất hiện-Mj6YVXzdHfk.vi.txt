@@ -1,0 +1,1676 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:08.847 --> 00:00:12.010
+Das ist die Geschichte von Sascha und Anna.
+*
+Đây là câu chuyện của Sascha và Anna.
+
+00:00:12.047 --> 00:00:14.288
+Sie wohnen zusammen in Berlin.
+*
+Họ sống chung trong một căn hộ ở Berlin.
+
+00:00:14.327 --> 00:00:16.648
+Sie haben einen Nachbarn: Nic.
+*
+Họ có một người hàng xóm: Nic.
+
+00:00:17.447 --> 00:00:20.371
+Nic ist in Sascha verliebt,
+*
+Nic thích Sascha,
+
+00:00:20.407 --> 00:00:22.455
+und Anna ist in Nic verliebt.
+*
+còn Anna thích Nic.
+
+00:00:22.487 --> 00:00:26.412
+Aber dann bekommt Sascha Post aus Amerika.
+*
+Nhưng lúc đó Sascha nhận được thư từ Mỹ.
+
+00:00:54.280 --> 00:00:58.251
+Jo, ich hab' dir doch gesagt
+*
+Jo, em đã nói với anh rồi
+
+00:00:58.280 --> 00:01:00.886
+es ist vorbei!!!
+*
+giải tán nhé!!!
+
+00:01:00.920 --> 00:01:06.290
+Und nenn mich bitte nicht CHACHA!!
+*
+Và đừng gọi em là CHACHA nữa nhé!
+
+00:01:06.320 --> 00:01:07.048
+SENDEN
+*
+GỬI
+
+00:01:08.120 --> 00:01:12.205
+1. Sams Ankunft
+*
+1. Sam xuất hiện
+
+00:01:22.240 --> 00:01:24.641
+Hallo Jo.
+*
+Allô Jo.
+
+00:01:24.680 --> 00:01:27.490
+Ja, das Kissen hab' ich auch bekommen.
+*
+Vâng, em cũng đã nhận được gối.
+
+00:01:28.760 --> 00:01:31.411
+Aber es ist vorbei! Vorbei!
+*
+Nhưng giải tán nhé! Thôi nhé!
+
+00:01:32.560 --> 00:01:35.689
+Und jetzt heul bitte nicht!
+*
+Và đừng kêu la gì nữa nhé!
+
+00:01:35.720 --> 00:01:37.165
+Tschüs.
+*
+Chào.
+
+00:01:38.880 --> 00:01:40.723
+Männer!
+*
+Ôi, đàn ông!
+
+00:01:46.840 --> 00:01:48.649
+Louis, komm schon.
+*
+Louis, lại đây.
+
+00:01:53.360 --> 00:01:56.489
+Sascha! Die Post! Louis und ich haben die Post!
+*
+Sascha, thư này! Louis và tớ có thư!
+
+00:01:57.440 --> 00:02:00.523
+Gib mir die Post, Louis.
+*
+Đưa thư cho ta nào, Louis.
+
+00:02:00.560 --> 00:02:03.803
+Gib mir sofort die Post, Louis.
+*
+Đưa ngay thư cho ta nào, Louis.
+
+00:02:04.360 --> 00:02:06.169
+Louis, Lass fallen!
+*
+Louis, Thả ra đi!
+
+00:02:06.600 --> 00:02:07.806
+Guter Hund!
+*
+Chó con ngoan!
+
+00:02:10.000 --> 00:02:11.889
+Telefonrechnung,
+*
+Hóa đơn điện thoại,
+
+00:02:12.480 --> 00:02:14.244
+Gasrechnung,
+*
+Hóa đơn gas
+
+00:02:14.280 --> 00:02:16.487
+Stromrechnung...
+*
+Hóa đơn điện...
+
+00:02:17.120 --> 00:02:18.770
+Oh, was ist das?
+*
+Oh, cái gì đây?
+
+00:02:18.800 --> 00:02:20.882
+Sascha, ein Brief für dich!
+*
+Sascha, có thư cho cậu này!
+
+00:02:20.920 --> 00:02:22.729
+Ein Brief für mich?
+*
+Thư cho tớ à?
+
+00:02:22.760 --> 00:02:24.842
+Von meiner Mutter.
+*
+Thư của mẹ.
+
+00:02:26.400 --> 00:02:28.721
+Hey, was ist denn das?
+*
+Hey, cái gì đây?
+
+00:02:31.680 --> 00:02:34.047
+,,Sascha Maus, dieser Brief ist für dich.
+*
+,,Sascha, con yêu, cái này dành cho con.
+
+00:02:34.080 --> 00:02:37.323
+,,Hast du immer noch so viele Pickel?. Deine Mama."
+*
+,,Con có còn nhiều mụn không?. Mẹ của con."
+
+00:02:38.480 --> 00:02:40.050
+Danke.
+*
+Cảm ơn.
+
+00:02:41.960 --> 00:02:46.761
+- Der hier ist aus Amerika. * Cái này từ Mỹ
+- Aus Amerika? Von wem denn? Na sag schon! * Từ Mỹ à? Từ ai nhỉ? Nói xem nào!
+
+00:02:46.800 --> 00:02:49.565
+,,Hallo! Kennst du mich noch?"
+*
+,,Xin chào! em có nhớ anh không?"
+
+00:02:50.040 --> 00:02:52.486
+Nein.
+*
+Không.
+
+00:02:56.640 --> 00:03:01.168
+,,Vor sieben Jahren Brieffreunde sind wir."
+*
+,,Bảy năm trước chúng ta là bạn qua thư."
+
+00:03:02.080 --> 00:03:05.482
+Vor sieben Jahren waren wir Brieffreunde.
+*
+Bảy năm trước chúng ta đã là bạn qua thư.
+
+00:03:06.520 --> 00:03:09.171
+Ach du liebe Zeit! Jetzt erinnere ich mich wieder.
+*
+Ôi trời ơi! Bây giờ tớ nhớ ra rồi.
+
+00:03:09.880 --> 00:03:14.090
+Der Brief ist von Sam! Sam Scott!
+*
+Thư từ Sam! Sam Scott!
+
+00:03:14.720 --> 00:03:16.643
+Wer ist Sam Scott?
+*
+Sam Scott là ai?
+
+00:03:16.680 --> 00:03:20.082
+Er war mein Brieffreund. Aber das ist sieben Jahre her.
+*
+Anh ấy là bạn qua thư của tớ. Nhưng đó là cách đây 7 năm.
+
+00:03:21.040 --> 00:03:24.169
+,,Ich gut spreche Deutsch jetzt..."
+*
+,,Anh nói tiếng Đức tốt bây giờ..."
+
+00:03:24.800 --> 00:03:27.644
+Ich spreche jetzt gut Deutsch.
+*
+Bây giờ anh nói tiếng Đức tốt.
+
+00:03:28.760 --> 00:03:31.127
+,,Und ich komme nach Deutschland."
+*
+,,Và anh đang đến Đức."
+
+00:03:31.160 --> 00:03:32.730
+Ein Amerikaner...
+*
+Một người Mỹ...
+
+00:03:39.040 --> 00:03:42.442
+,,Ich möchte mit dir schlafen."
+*
+,,Anh muốn ngủ với em."
+
+00:03:43.960 --> 00:03:45.450
+Was?
+*
+Cái gì?
+
+00:03:45.480 --> 00:03:48.484
+,,Hast du ein Bett für mich?"
+*
+,,Em có cái giường nào cho anh không?"
+
+00:03:48.520 --> 00:03:51.603
+Ach so. Er will hier übernachten.
+*
+Ah. Anh ấy muốn ở lại đây.
+
+00:03:52.040 --> 00:03:54.088
+Ah. Die Tarantel!
+*
+Ah. Chủ nhà!
+
+00:03:54.120 --> 00:03:56.885
+Keine Herren Besuche nach 23 Uhr
+*
+Khách không được đến sau 23h
+
+00:03:57.760 --> 00:04:02.209
+Ein Amerikaner! Hier! Wie Brad Pitt! Groß , sportlich...
+*
+Một người Mỹ! Ở đây! như Brad Pitt! Cao lớn, thể thao...
+
+00:04:02.240 --> 00:04:03.730
+Und reich!
+*
+Và giàu có!
+
+00:04:08.240 --> 00:04:09.810
+Wann kommt er denn?
+*
+Khi nào thì anh ấy tới?
+
+00:04:09.840 --> 00:04:11.763
+Hier steht... am 7. Juli.
+*
+Ở đây ghi là... ngày 7 tháng 7.
+
+00:04:13.040 --> 00:04:15.327
+Aha. Am 7. Juli.
+*
+Aha. Vào ngày 7 tháng 7.
+
+00:04:15.360 --> 00:04:17.249
+Am 7. Juli?
+*
+Ngày 7 tháng 7?
+
+00:04:17.840 --> 00:04:19.683
+- Aber das ist ja... * Nhưng mà đó là...
+- Heute! * Hôm nay!
+
+00:04:39.040 --> 00:04:40.929
+Hi!
+*
+Xin chào!
+
+00:04:40.960 --> 00:04:42.325
+Nic...
+*
+Nic...
+
+00:04:43.960 --> 00:04:45.564
+Hallo Nic!
+*
+Chào Nic!
+
+00:04:47.640 --> 00:04:50.723
+- Wie geht's dir? * Anh khỏe không?
+- Alles unter Kontrolle. * Mọi thứ vẫn ổn.
+
+00:04:53.400 --> 00:04:55.562
+Hey, du hast aber Muskeln!
+*
+Hey, trông em cơ bắp quá nhỉ!
+
+00:04:57.040 --> 00:04:59.725
+Ich bring' eure Milch zurück.
+*
+Anh mang sữa của bọn em lại đây.
+
+00:05:00.800 --> 00:05:03.451
+Was? Unsere Milch?
+*
+Cái gì? Sữa của bọn em?
+
+00:05:03.480 --> 00:05:06.211
+Doch nicht etwa die Milch von vor drei Wochen?
+*
+Nhưng không phải là sữa từ 3 tuần trước đấy chứ?
+
+00:05:06.240 --> 00:05:08.607
+Ich vergesse nie etwas!
+*
+Anh không quên gì hết!
+
+00:05:08.640 --> 00:05:09.766
+Danke Nic.
+*
+Cảm ơn Nic.
+
+00:05:18.440 --> 00:05:21.444
+Na Ladies, was geht so ab?
+*
+Các cô gái, có gì mới không nhỉ?
+
+00:05:30.400 --> 00:05:32.289
+Möchtest du was trinken, Nic?
+*
+Anh thích uống gì nhỉ, Nic?
+
+00:05:38.240 --> 00:05:40.891
+Möchtest du was trinken, Nic?
+*
+Anh uống gì nhỉ, Nic?
+
+00:05:50.640 --> 00:05:52.244
+Ja, hallo?
+*
+Vâng, allô
+
+00:05:52.280 --> 00:05:54.931
+Ich hab gefragt, ob du was trinken willst.
+*
+Em đã hỏi, anh có muốn uống gì không, Nic?
+
+00:05:56.120 --> 00:05:57.849
+Ähh, ja. 'Ne Cola.
+*
+Ähh, có. cho anh một Coca nhé.
+
+00:06:07.040 --> 00:06:09.964
+- Sascha hat Post von Sam. * Sascha có thư từ Sam
+- Ach ja? * Ah, vậy à?
+
+00:06:10.360 --> 00:06:12.124
+Sam aus Amerika!
+*
+Sam đến từ Mỹ!
+
+00:06:12.160 --> 00:06:14.925
+Ach ja? Aus Amerika?
+*
+Ah vậy à? Từ Mỹ?
+
+00:06:16.680 --> 00:06:18.603
+Wow.
+*
+Wow.
+
+00:06:23.240 --> 00:06:25.242
+Und ist sie cool?.
+*
+Thế cô ấy trông có ngon không?
+
+00:06:26.320 --> 00:06:28.129
+'Sie' ist ein 'Er'.
+*
+'Cô ấy' là "Anh ấy'
+
+00:06:28.160 --> 00:06:31.243
+- Wie? * Sao?
+- Na Mensch. Sam ist männlich! * Vâng. Sam là đàn ông!
+
+00:06:34.680 --> 00:06:37.365
+Ach so. Ein cooler Ami, ja?
+*
+Vậy à. Một gã người Mỹ ngon giai à?
+
+00:06:49.320 --> 00:06:51.482
+Hey, Sascha! Alles okay?
+*
+Eh, Sascha! Trông được không?
+
+00:06:52.840 --> 00:06:57.323
+Nic! Niemand darf mein Fahrrad anfassen! Kapiert? Niemand!
+*
+Nic! Không ai được đụng vào xe đạp của tôi! rõ chưa? Không ai được phép!
+
+00:06:57.360 --> 00:07:01.285
+- Aber warum nicht? * Nhưng mà sao lại không được?
+- Muss ich das begründen? * Tôi phải giải thích lý do à?
+
+00:07:01.320 --> 00:07:03.527
+Hey, hey, hey! Mach mal langsam.
+*
+Eh, nào, nào! từ từ nào.
+
+00:07:03.560 --> 00:07:09.806
+Wer mein Fahrrad anfasst, fliegt raus, kapiert, R-A-U-S.
+*
+Ai đụng vào xe của tôi, thì tôi tống ra ngoài, rõ chưa, RA.
+
+00:07:23.720 --> 00:07:25.245
+Hi!
+*
+Xin chào!
+
+00:07:26.200 --> 00:07:28.282
+Eh... Hallo.
+*
+Eh... Xin chào.
+
+00:07:29.040 --> 00:07:30.485
+Hallo.
+*
+Xin chào.
+
+00:07:32.080 --> 00:07:35.562
+Ich heiße Amerika. Ich komme aus Sam.
+*
+Tôi tên là Mỹ. Tôi đến từ Sam.
+
+00:07:37.440 --> 00:07:40.046
+Du meinst ,,Ich heiße Sam"?
+*
+Ý anh là ,,Tôi là Sam"?
+
+00:07:40.080 --> 00:07:43.971
+- Du heißt Sam? * Em là Sam?
+- Nein. Ich heiße Anna. * Không, tên em là Anna.
+
+00:07:44.000 --> 00:07:46.844
+Ah, ich heiße Anna.
+*
+Ah, Tên anh là Anna.
+
+00:07:46.880 --> 00:07:49.770
+Nein. Was sie sagen will, ist:
+*
+Không, Ý cô ấy là:
+
+00:07:49.800 --> 00:07:53.771
+„Ich heiße Sam und Ich komme aus Amerika."
+*
+„Tôi là Sam, tôi đến từ Mỹ."
+
+00:07:54.480 --> 00:07:57.051
+Du kommst aus Amerika?
+*
+Em đến từ Mỹ?
+
+00:07:57.080 --> 00:07:59.651
+Hilfe! Komm schon rein.
+*
+Giời ạ, thôi vào đi.
+
+00:08:00.440 --> 00:08:01.885
+Super!
+*
+Tuyệt!
+
+00:08:09.560 --> 00:08:13.360
+Hi Mom!  I’m hier, in Germany!
+*
+Chào mẹ! Con đang ở Đức đây!
+
+00:08:13.400 --> 00:08:16.404
+Yeah, and I introduced myself in German:
+*
+Vâng, và con đã tự giới thiệu bằng tiếng Đức.
+
+00:08:16.440 --> 00:08:20.764
+,,Ich heiße Sam, ich komme aus Amerika’’.
+*
+ ,,Tôi là Sam. Tôi đến từ Mỹ.’’.
+
+00:08:21.560 --> 00:08:23.688
+At least I think that’s what I said...
+*
+Ít nhất đó là những cái mà con nghĩ con đã nói...
+
+00:08:24.960 --> 00:08:26.405
+Hallo Nadja.
+*
+Chào, Nadja.
+
+00:08:26.440 --> 00:08:29.762
+Saschas Brieffreund ist heute angekommen.
+*
+Hôm nay bạn qua thư của Sascha đã đến.
+
+00:08:29.800 --> 00:08:30.801
+Hallo.
+*
+Xin chào.
+
+00:08:30.840 --> 00:08:33.491
+Der Typ ist komisch!
+*
+Trông anh ta buồn cười lắm!
+
+00:08:33.520 --> 00:08:36.808
+Und Nic von nebenan ist total witzig.
+*
+Và anh bạn hàng xóm Nic rất buồn cười.
+
+00:08:36.840 --> 00:08:39.286
+Er hat unsere Milch zurückgebracht
+*
+Anh ấy đã trả lại sữa của bọn mình.
+
+00:08:39.320 --> 00:08:41.448
+die Milch von vor 3 Wochen!!
+*
+Sữa cách đây ba tuần!!
+
+00:08:41.480 --> 00:08:44.006
+Ich vergesse nie etwas.
+*
+Anh không quên gì hết!
+
+00:08:48.280 --> 00:08:49.566
+Schwesterherz,
+*
+Em à,
+
+00:08:49.600 --> 00:08:54.640
+Nic, Grrr! hat mein Fahrrad angefasst!
+*
+Nic, Grr! đã động vào xe đạp của chị!
+
+00:08:54.680 --> 00:08:55.761
+Wie blöd!
+*
+Thật là ngu ngốc!
+
+00:08:58.400 --> 00:09:01.006
+Und Sam aus Amerika ist hier.
+*
+Và Sam từ Mỹ tới đây.
+
+00:09:01.040 --> 00:09:05.045
+Ich heiße Amerika. Ich komme aus Sam.
+*
+Tôi tên là Mỹ. Tôi đến từ Sam.
+
+00:09:05.080 --> 00:09:08.766
+Aber sein Deutsch ist katastrophal!
+*
+Nhưng mà tiếng Đức của anh ta thật sự là thảm họa
+
+00:09:08.800 --> 00:09:10.484
+Männer!
+*
+Oh! Đàn ông!
+
+00:09:10.800 --> 00:09:15.966
+Anyway... Sascha and her flatmate Anna were very impressed!
+*
+Dù sao... Sacha và cô bạn cùng phòng rất ấn tượng!
+
+00:09:24.000 --> 00:09:26.002
+Ahh... Meine kleinen Autos.
+*
+Ahh... Những chiếc xe của anh.
+
+00:09:28.240 --> 00:09:30.004
+Du spielst mit Autos?
+*
+Anh chơi xe à?
+
+00:09:30.040 --> 00:09:33.362
+Ja! Du spielst... Nein, nein.
+*
+Vâng! Em chơi... Không, không.
+
+00:09:33.400 --> 00:09:36.006
+Ich spiele mit Autos!
+*
+Anh chơi xe!
+
+00:09:37.720 --> 00:09:40.166
+Der Typ spielt mit Autos!
+*
+Hắn ta chơi xe!
+
+00:09:42.840 --> 00:09:45.002
+Ich lese...
+*
+Anh đọc...
+
+00:09:45.680 --> 00:09:48.251
+Ich liebe die Bücherei!
+*
+Anh rất thích thư viện!
+
+00:09:50.440 --> 00:09:52.681
+Oh, wie interessant.
+*
+Oh, Thật thú vị.
+
+00:09:52.800 --> 00:09:56.361
+Ja, wir gehen auch immer in die Bücherei, nicht wahr?
+*
+Vâng, chúng mình cũng luôn đến thư viện, phải không?
+
+00:09:56.400 --> 00:10:00.121
+Aber klar. Dort ist es so toll.
+*
+Tất nhiên rồi. Tuyệt vời.
+
+00:10:01.080 --> 00:10:02.286
+Super!
+*
+Tuyệt
+
+00:10:03.080 --> 00:10:05.082
+Ah, Hier wohne ich.
+*
+Ah, Oh! Anh sống ở đây.
+
+00:10:07.640 --> 00:10:10.610
+Das ist ein Museum. Du wohnst in einem Museum?
+*
+Đó là viện bảo tàng. Anh sống trong bảo tàng à?
+
+00:10:10.640 --> 00:10:13.246
+Okay. Ein Museum.
+*
+Okay, Một viện bảo tàng.
+
+00:10:13.280 --> 00:10:17.001
+Ähm, ich wohne in einem Museum.
+*
+Ähm, Anh sống trong một viện bảo tàng.
+
+00:10:17.640 --> 00:10:21.008
+Ich wohne in einem Museum.
+*
+Anh sống trong một viện bảo tàng.
+
+00:10:21.680 --> 00:10:24.604
+- Okay. * Okay
+- Ich glaube, er arbeitet in einem Museum. * Tớ nghĩ là anh ấy làm việc ở bảo tàng.
+
+00:10:26.280 --> 00:10:30.410
+- Hey Sam, komm. Wir zeigen dir die Wohnung. * Eh Sam, lại đây. Bọn em cho anh xem căn hộ.
+- Hmm, super! * Hmm, tuyệt!
+
+00:10:31.080 --> 00:10:34.050
+Sam, wir zeigen dir die Wohnung!
+*
+Bọn em cho anh xem căn hộ này!
+
+00:10:37.640 --> 00:10:39.369
+Hier ist das Schlafzimmer.
+*
+Đây là phòng ngủ.
+
+00:10:41.320 --> 00:10:43.527
+Wow, danke!
+*
+Wow, cảm ơn!
+
+00:10:47.280 --> 00:10:48.725
+Gutes Bett!
+*
+Giường chuẩn quá!
+
+00:10:48.760 --> 00:10:50.410
+So where do you sleep?
+*
+Bọn em ngủ ở đâu nhỉ?
+
+00:10:50.440 --> 00:10:52.090
+Wo schlaft ihr?
+*
+Bọn em ngủ ở đâu?
+
+00:10:52.120 --> 00:10:55.169
+Hey, nein ... hier gibt es nur ein Schlafzimmer.
+*
+Eh, không... ở đây chỉ có một phòng ngủ.
+
+00:10:56.080 --> 00:10:58.765
+Wie? Nur eins?
+*
+Sao? Chỉ có một phòng ngủ thôi à?
+
+00:10:58.880 --> 00:11:02.043
+Ich habe eins, zwei...
+*
+Anh có một, hai...
+
+00:11:02.080 --> 00:11:04.082
+Zweiundzwanzig.
+*
+22.
+
+00:11:05.480 --> 00:11:06.970
+Zweiundzwanzig!
+*
+22!
+
+00:11:07.000 --> 00:11:10.607
+- Er hat zweiundzwanzig Zimmer? * Anh ấy có 22 phòng?
+- Ich glaube er meint zwei Zimmer. * Tớ nghĩ ý anh ấy là 2 phòng.
+
+00:11:11.480 --> 00:11:13.721
+Okay, du kannst hier schlafen.
+*
+Okay, anh có thể ngủ ở đây.
+
+00:11:15.320 --> 00:11:16.731
+Okay.
+*
+Được rồi
+
+00:11:19.360 --> 00:11:21.966
+Nein, nicht so.
+*
+Không, không phải như vậy
+
+00:11:22.000 --> 00:11:23.365
+Das ist eine Klapp-Couch.
+*
+Đây là một cái ghế gấp thành giường.
+
+00:11:24.600 --> 00:11:26.807
+- Eine Klapp-Couch? * Ghế gấp thành giường?
+- Ja. * Vâng.
+
+00:11:29.520 --> 00:11:32.330
+Wow, fantastic.
+*
+Wow, tuyệt vời.
+
+00:11:34.800 --> 00:11:36.404
+Und hier ist ein Kissen für dich...
+*
+Còn đây là gối của anh...
+
+00:11:36.960 --> 00:11:40.043
+- Thanks. * Cảm ơn.
+- Und das ist die Fernbedienung. * Còn đây là điều khiển từ xa.
+
+00:11:41.000 --> 00:11:42.365
+Danke.
+*
+Cảm ơn.
+
+00:11:42.400 --> 00:11:45.165
+Fühl dich wie zu Hause. Ich muss mal ins Bad.
+*
+Anh cứ tự nhiên như ở nhà nhé. Em phải vào phòng tắm đây.
+
+00:11:48.840 --> 00:11:50.569
+Psst Anna! Ins Bad!
+*
+Xuỵt Anna! Vào phòng tắm!
+
+00:11:52.400 --> 00:11:53.970
+Schnell!
+*
+Nhanh lên nào!
+
+00:11:58.200 --> 00:12:00.726
+Hilfe! Was machen wir mit ihm?
+*
+Giời ạ! Chúng ta phải làm gì với anh ta bây giờ?
+
+00:12:00.760 --> 00:12:04.401
+Er spielt mit Spielzeug-Autos. Das gibt’s doch nicht!
+*
+Anh ta vẫn còn chơi xe đồ chơi trẻ con. Thật không thể tin được
+
+00:12:05.760 --> 00:12:08.570
+Und besonders sexy ist er auch nicht!
+*
+Và anh ta cũng không hề quyến rũ!
+
+00:12:12.000 --> 00:12:13.729
+Room service.
+*
+Phục vụ phòng.
+
+00:12:15.520 --> 00:12:19.047
+- Aber er ist so süß... * Nhưng anh ta cũng nhẹ nhàng...
+- Und er ist höflich... * và lịch sự...
+
+00:12:20.320 --> 00:12:22.482
+Aber seine Klamotten!
+*
+Nhưng coi bộ đồ anh ta mặc kìa!
+
+00:12:23.080 --> 00:12:26.209
+- Er ist so altmodisch! * Trông lạc hậu quá!
+- Er muss hier raus! * Phải cho anh ta biến thôi!
+
+00:12:40.280 --> 00:12:41.520
+Hallo.
+*
+Xin chào.
+
+00:12:42.080 --> 00:12:43.241
+Oh, hi.
+*
+Oh, xin chào.
+
+00:12:43.880 --> 00:12:47.885
+- Wer bist du denn? * Anh là ai nhỉ?
+- Du bist aber schnell! Gut! n* Anh nhanh thế! Tốt!
+
+00:12:47.920 --> 00:12:53.165
+Mein...  Gepäck...  ist unten...
+*
+Hành lý... của tôi... ở phía dưới...
+
+00:12:53.800 --> 00:12:55.040
+Was?
+*
+Cái gì?
+
+00:12:55.080 --> 00:13:00.291
+Bitte bringen ... Sie mir ... mein Gepäck.
+*
+Anh làm ơn... mang lên... giúp tôi.
+
+00:13:00.320 --> 00:13:02.607
+Gepäck?  Wie bitte?
+*
+Hành lý à? Xin lỗi gì nhỉ?
+
+00:13:03.800 --> 00:13:05.802
+Was ist denn mit dir los?
+*
+Chuyện gì xảy ra với anh vậy?
+
+00:13:06.280 --> 00:13:09.523
+Ich ziehe – du kommst.
+*
+Tôi mở cửa ra – anh đến.
+
+00:13:09.560 --> 00:13:11.801
+Du bist der Portier right?
+*
+Anh có phải là nhân viên khuân vác?
+
+00:13:11.840 --> 00:13:14.207
+Portier?
+*
+Nhân viên khuân vác á?
+
+00:13:14.960 --> 00:13:16.405
+Ich bin Nic.
+*
+Tôi là Nic.
+
+00:13:16.440 --> 00:13:18.647
+Ich wohne nebenan.
+*
+Tôi ở phòng bên cạnh.
+
+00:13:23.360 --> 00:13:25.283
+Oh I’m sorry man, I’m Sam.
+*
+Oh, xin lỗi anh, tôi là Sam.
+
+00:13:26.640 --> 00:13:29.530
+- Aus Amerika. * Từ Mỹ.
+- Yeah! Aus Amerika! * Yeah! Từ Mỹ!
+
+00:13:30.240 --> 00:13:36.725
+- Ach so. Wo sind die Girls? * Vậy à. Thế bọn con gái đâu?
+- Äh, Die Girls? * Ah, Bọn con gái à?
+
+00:13:36.760 --> 00:13:38.489
+Sascha und Anna.
+*
+Sascha và Anna.
+
+00:13:39.320 --> 00:13:41.971
+Sascha und Anna wohnen hier.
+*
+Sascha và Anna sống ở đây.
+
+00:13:42.000 --> 00:13:46.608
+Ja, das weiß ich. Aber wo ist Sascha?
+*
+Vâng, tôi biết. Nhưng Sascha đâu?
+
+00:13:46.640 --> 00:13:49.689
+Ah! Sascha...
+*
+Ah! Sascha...
+
+00:13:49.720 --> 00:13:53.247
+hat mir das gegeben!
+*
+cô ấy đưa cho tôi cái này!
+
+00:13:54.560 --> 00:13:57.040
+Ach so...
+*
+Vậy à...
+
+00:13:57.080 --> 00:13:59.287
+Sascha hat dir das gegeben?
+*
+Sacha đưa cho anh cái này?
+
+00:14:02.000 --> 00:14:04.082
+Hallo Nic
+*
+Chào Nic
+
+00:14:04.120 --> 00:14:08.011
+- das hier ist Sam Scott aus Amerika. * Đây là Sam Scott từ Mỹ. 
+- Mmh, ja ... Ich weiß. * Hmh, vâng... anh biết.
+
+00:14:08.880 --> 00:14:11.804
+Ist er nicht süüüüüß...?
+*
+Anh ấy không dễ thương... à?
+
+00:14:13.840 --> 00:14:15.330
+Hast du Hunger?
+*
+Anh có đói không?
+
+00:14:17.160 --> 00:14:21.085
+Wir kaufen dir was zu essen, was ist dein Lieblingsessen?
+*
+Chúng ta sẽ mua cái gì để ăn, anh thích ăn gì nhất nhỉ?
+
+00:14:21.120 --> 00:14:22.884
+Currywurst?
+*
+Xúc xích cà ri nhé?
+
+00:14:22.920 --> 00:14:25.241
+Currywurst, OK.
+*
+Xúc xích cà ri, được.
+
+00:14:26.520 --> 00:14:29.888
+Nic, Sam, ihr habt bestimmt viel Spaß miteinander!
+*
+Nic, Sam, các anh vui vẻ cùng nhau nhé!
+
+00:14:29.920 --> 00:14:32.526
+Nic, du kannst ihm ja Deutsch-Unterricht geben!
+*
+Nic, Anh có thể dạy anh ấy học tiếng Đức đấy!
+
+00:14:34.800 --> 00:14:36.404
+Deutsch-Unterricht?
+*
+Dạy tiếng Đức?
+
+00:14:38.400 --> 00:14:41.927
+Ja, ich werde ihm Deutsch-Unterricht geben...
+*
+Ừ, mình sẽ dạy cậu ấy học tiếng Đức.
+
+00:14:49.120 --> 00:14:52.806
+And do you know what the German for ,,house’’ is?
+*
+Mẹ có biết trong tiếng Pháp từ ,,nhà’’ là gì không?
+
+00:14:52.840 --> 00:14:56.367
+It’s ,,Museum’’ Yeah! Isn’t that great?!
+*
+Đó là ,,Museum’’ Yeah! Tuyệt đấy chứ!
+
+00:14:57.720 --> 00:15:03.887
+Hallo Jo! Dieser Amerikaner - Sam - hat gedacht, ich wäre der Portier!!!
+*
+Eh Jojo! Cậu người Mỹ này - Sam - nghĩ tớ là nhân viên khuân vác!!!
+
+00:15:04.920 --> 00:15:09.926
+Bitte bringen Sie mir mein Gepäck.
+*
+Làm ơn mang hành lý giúp tôi.
+
+00:15:11.320 --> 00:15:14.767
+Und Sascha hat ihm ein Herz-Kissen gegeben...
+*
+Và Sascha đã đưa cho cậu ấy cái gối hình trái tim...
+
+00:15:14.800 --> 00:15:16.609
+mmh...
+*
+mmh...
+
+00:15:16.640 --> 00:15:19.007
+Das muss ein Ende haben...
+*
+Phải chấm dứt ngay vụ này.
+
+00:15:20.440 --> 00:15:22.681
+Nadja,stell dir vor:
+*
+Nadja,tưởng tượng xem này:
+
+00:15:22.720 --> 00:15:25.849
+Sam spielt mit Spielzeug-Autos!
+*
+Sam chơi xe đồ chơi trẻ con!
+
+00:15:26.640 --> 00:15:29.007
+Meine kleinen Autos.
+*
+Những chiếc xe nhỏ của tôi.
+
+00:15:31.160 --> 00:15:34.687
+Er geht in die Bücherei und wohnt in einem Museum!
+*
+Anh ấy đến thư viện và sống trong một viện bảo tàng!
+
+00:15:35.320 --> 00:15:37.243
+Wirklich! Hihi!
+*
+Thật sự mà! Hihi!
+
+00:15:39.440 --> 00:15:41.602
+,,Ich wohne in einem Museum..’’
+*
+,,Con sống trong viện bảo tàng..’’
+
+00:15:48.280 --> 00:15:50.487
+Also, pass auf.
+*
+Được rồi, chú ý đây.
+
+00:15:52.240 --> 00:15:55.403
+Das hier ist der Ofen.
+*
+Đây là cái lò.
+
+00:15:56.360 --> 00:15:59.250
+Das hier ist der Ofen.
+*
+Đây là cái lò.
+
+00:15:59.280 --> 00:16:04.923
+Annas Hund schläft im Ofen.
+*
+Con chó của Anna ngủ trong cái lò.
+
+00:16:05.960 --> 00:16:09.646
+Annas Hund schläft im Ofen.
+*
+Con chó của Anna ngủ trong cái lò.
+
+00:16:09.680 --> 00:16:11.523
+Sehr gut.
+*
+Rất tốt.
+
+00:16:11.560 --> 00:16:14.689
+Du sagst zu Anna:
+*
+Cậu nói với Anna thế này nhé:
+
+00:16:14.720 --> 00:16:18.247
+,,Anna! der Hund ist im Ofen’’.
+*
+,,Anna! con chó ở trong cái lò’’.
+
+00:16:20.360 --> 00:16:23.569
+,,Anna! der Hund ist im Ofen.’’
+*
+,,Anna! con chó ở trong cái lò’’.
+
+00:16:24.000 --> 00:16:26.162
+Sehr gut, sehr gut.
+*
+Rất tốt, rất tốt.
+
+00:16:30.840 --> 00:16:32.888
+Und Sascha...
+*
+Thế còn Sascha...
+
+00:16:32.920 --> 00:16:34.285
+Ja?
+*
+Vâng?
+
+00:16:38.600 --> 00:16:40.170
+Keine Chance.
+*
+Không có cơ hội.
+
+00:16:40.240 --> 00:16:41.446
+What?
+*
+Gì?
+
+00:16:41.480 --> 00:16:43.608
+Sascha steht auf starke Männer...
+*
+Sascha thích đàn ông mạnh mẽ...
+
+00:16:43.640 --> 00:16:46.086
+... mit starken Beinen.
+*
+... có đôi chân khỏe.
+
+00:16:46.120 --> 00:16:50.842
+Stark, Ich bin stark.
+*
+Khỏe, tôi khỏe đây.
+
+00:16:50.880 --> 00:16:52.370
+Ach ja?
+*
+vậy à?
+
+00:16:53.880 --> 00:16:57.805
+Kannst du 50 Kilometer auf dem Fahrrad fahren?
+*
+Thế cậu có thể đạp xe 50 km không?
+
+00:17:00.520 --> 00:17:01.806
+Yeah!
+*
+Ngon lành nhé!
+
+00:17:02.560 --> 00:17:05.211
+Niemals!  Das will ich sehen.
+*
+Làm gì có chuyện! Tôi muốn xem nào.
+
+00:17:12.840 --> 00:17:14.171
+Pass auf!
+*
+Xem đây!
+
+00:17:29.320 --> 00:17:31.448
+Also was meinst du, rot oder blau?
+*
+Thế cậu thích cái màu đỏ hay màu xanh lơ hơn nhỉ?
+
+00:17:31.480 --> 00:17:34.404
+Blau. Blau finde ich besser.
+*
+Màu xanh lơ. Tớ thấy nó hợp hơn.
+
+00:17:34.440 --> 00:17:36.920
+- Findest du? * Thật vậy à?
+- Ja. * Ừ.
+
+00:17:36.960 --> 00:17:40.407
+Hey, Anna, Sascha. Viel Shopping?
+*
+Eh, Anna, Sascha. Mua được nhiều không?
+
+00:17:41.760 --> 00:17:46.084
+Ähh, ja klar, Sam. Wir haben viel eingekauft.
+*
+Ähh, vâng, Sam. Bọn em mua được nhiều.
+
+00:17:49.440 --> 00:17:52.887
+Ah Sascha! Schau mal - 50 Kilometer!
+*
+Ah Sascha! Coi này - 50 km nhé!
+
+00:17:55.440 --> 00:17:59.081
+Anna, der Hund ist im Ofen!
+*
+Anna, con chó ở trong lò!
+
+00:17:59.120 --> 00:18:00.485
+Was?
+*
+Cái gì?
+
+00:18:03.240 --> 00:18:05.925
+Hi! Alles in Ordnung?
+*
+Xin chào! Mọi thứ vẫn ổn chứ?
+
+00:18:05.960 --> 00:18:07.610
+Super!
+*
+Tuyệt vời!
+
+00:18:10.560 --> 00:18:12.847
+Jetzt bin ich...
+*
+Tôi...
+
+00:18:14.360 --> 00:18:16.362
+Jetzt bin ich...
+*
+Tôi...
+
+00:18:16.400 --> 00:18:17.606
+...tot!
+*
+...chết!
+
+00:18:17.640 --> 00:18:20.166
+Ich bin heiß.
+*
+Tôi nóng.
+
+00:18:20.200 --> 00:18:22.965
+Nein. Nein. Du meinst: Mir ist heiß.
+*
+Không. Không. Cậu nói thế này: Tôi cảm thấy nóng.
+
+00:18:25.120 --> 00:18:28.841
+Sam, du solltest duschen gehen.
+*
+Sam, cậu nên đi tắm đi.
+
+00:18:29.760 --> 00:18:32.286
+Ahh... Duschen.
+*
+Ahh... Tắm
+
+00:18:32.320 --> 00:18:34.800
+Mir ist heiß. Ich gehe duschen.
+*
+Tôi cảm thấy nóng. Tôi đi tắm.
+
+00:18:36.080 --> 00:18:37.491
+Excuse me.
+*
+Xin lỗi.
+
+00:18:42.160 --> 00:18:44.527
+Das war’s! Der Typ fliegt raus!
+*
+Vậy đấy! Hắn ta sẽ ra đi!
+
+00:18:44.560 --> 00:18:49.361
+- Aber wieso? Er ist doch so nett. * Nhưng mà sao? Cậu ấy dễ mến đấy chứ.
+- Er ist mit meinem Fahrrad gefahren! * Anh ta dùng xe của em!
+
+00:18:50.480 --> 00:18:54.405
+Und er hat gesagt: ,,Der Hund ist im Ofen.'' So ein blöder Witz.
+*
+Và anh ta đã nói là: ,,Con chó ở trong lò.'' Thật là một trò đùa khủng khiếp.
+
+00:18:55.720 --> 00:18:57.927
+Louis? Wo ist Louis?
+*
+Louis? Louis đâu rồi?
+
+00:18:57.960 --> 00:19:00.088
+- Louis? * Louis?
+- Ah, so ein böser Junge! * Ah, thật là một gã xấu!
+
+00:19:00.120 --> 00:19:02.009
+Der Typ fliegt raus!
+*
+Hắn ta phải biến đi!
+
+00:19:03.240 --> 00:19:05.004
+Kann er bei dir wohnen, Nic?
+*
+Anh ấy có thể ở với anh không, Nic?
+
+00:19:07.080 --> 00:19:09.481
+Sorry, Ladies. Das geht wirklich nicht.
+*
+Xin lỗi các cô. Không thể được.
+
+00:19:09.520 --> 00:19:12.000
+Du hast doch ein freies Zimmer! Bitte.
+*
+Anh vẫn còn phòng trống mà, làm ơn nào!
+
+00:19:12.040 --> 00:19:15.089
+Auf keinen Fall! Der Typ ist nicht mein Problem.
+*
+Không thể được! Cậu ấy không phải là chuyện của anh.
+
+00:19:15.120 --> 00:19:17.521
+Er fliegt raus und zwar sofort!
+*
+Anh ta phải biến đi ngay!
+
+00:19:19.800 --> 00:19:21.928
+Aber er duscht gerade!
+*
+Nhưng mà anh ấy đang tắm!
+
+00:19:21.960 --> 00:19:23.928
+Das ist mir egal!
+*
+Tớ không quan tâm!
+
+00:19:25.520 --> 00:19:28.410
+Sam! Komm sofort raus.
+*
+Sam! Ra đi nào.
+
+00:19:28.440 --> 00:19:29.646
+Was?
+*
+Cái gì?
+
+00:19:30.040 --> 00:19:32.646
+Wir müssen mit dir sprechen!
+*
+Chúng tôi muốn nói chuyện với anh!
+
+00:19:32.680 --> 00:19:35.126
+Okay. Komme sofort.
+*
+Được rồi. Tôi ra ngay đây.
+
+00:19:51.600 --> 00:19:53.125
+Sorry, you wanted me?
+*
+Xin lỗi, các bạn gọi tớ à?
+
+00:19:53.160 --> 00:19:54.764
+Sag's du ihm doch Anna.
+*
+Cậu nói với anh ấy đi, Anna.
+
+00:19:56.680 --> 00:19:58.091
+Na komm schon, sag's ihm.
+*
+Nào, nói đi
+
+00:19:58.680 --> 00:19:59.761
+Ja, Sascha?
+*
+Vâng, Sascha?
+
+00:19:59.800 --> 00:20:03.771
+Weißt du, Sam, es ist so...
+*
+Anh biết không, Sam, chuyện là thế này...
+
+00:20:09.440 --> 00:20:13.445
+Also Sam... Es ist so.
+*
+Ah Sam... chuyện là.
+
+00:20:17.560 --> 00:20:19.642
+Alles klar! Ich mach das schon.
+*
+Rõ rồi! Để tôi.
+
+00:20:20.240 --> 00:20:22.641
+Ähh, Sam, kann ich mal mit dir sprechen?
+*
+Ähh, Sam, tôi có thể nói chuyện với cậu một lát được không?
+
+00:20:22.680 --> 00:20:24.045
+Sure.
+*
+Rồi.
+
+00:20:28.120 --> 00:20:30.009
+Brad Pitt!
+*
+như Brad Pitt!
+
+00:20:31.040 --> 00:20:33.486
+Sam, bist du das?
+*
+Sam, Đây có phải là cậu không?
+
+00:20:33.520 --> 00:20:35.488
+Mmh... ja...
+*
+Mmh...đúng...
+
+00:20:35.520 --> 00:20:37.090
+Mit meinen Eltern.
+*
+Với bố mẹ tôi.
+
+00:20:39.160 --> 00:20:42.721
+,,Familie Scott. Eine der reichsten Familien Amerikas" .
+*
+,,Gia đình Scott, một trong những gia đình giàu nhất ở Mỹ".
+
+00:20:49.160 --> 00:20:51.049
+Und wer ist das?
+*
+Còn những người này?
+
+00:20:51.080 --> 00:20:52.809
+Meine...
+*
+Là...
+
+00:20:53.440 --> 00:20:56.887
+- Deine Dienstboten? * Nhân viên của cậu?
+- Mmh, ja, meine Dienstboten. * Mmh, ừ, nhân viên của tôi.
+
+00:20:57.760 --> 00:20:59.410
+Deine Autos?
+*
+Những chiếc xe của cậu?
+
+00:20:59.440 --> 00:21:01.522
+Ja, meine Autos.
+*
+Ừ, xe của tôi.
+
+00:21:02.040 --> 00:21:03.565
+Mensch Sam.
+*
+Oh Sam.
+
+00:21:03.600 --> 00:21:05.204
+Du bist total reich.
+*
+Cậu giàu thật đấy.
+
+00:21:06.960 --> 00:21:09.201
+Warum willst du hier wohnen?
+*
+Sao cậu lại muốn ở đây?
+
+00:21:09.240 --> 00:21:12.722
+Ich will real... richtige Freunde.
+*
+Tôi muốn có những người bạn... thật sự.
+
+00:21:14.080 --> 00:21:16.401
+Die Leute mögen dich nur, weil du reich bist?
+*
+Mọi người thích cậu vì tiền của cậu?
+
+00:21:20.000 --> 00:21:25.962
+Mensch, das ist ja schrecklich! Kein Wort zu den Mädchen! Pssst. Verstehst du?
+*
+Oh, vãi chưởng! Không được nói gì với bọn con gái nhé! Xuỵt. Rõ chưa?
+
+00:21:26.000 --> 00:21:30.210
+Ok. Psst … don’t tell the girls.
+*
+Được rồi. Xuỵt... không nói với bọn con gái.
+
+00:21:30.240 --> 00:21:36.009
+Vielleicht... vielleicht sollte er doch hier wohnen?
+*
+Anh ấy có thể .. ở lại đây được đấy nhỉ?
+
+00:21:36.720 --> 00:21:40.441
+Oh ja, der arme kleine Amerikaner!
+*
+Ừ, khổ thân anh chàng người Mỹ!
+
+00:21:43.360 --> 00:21:47.251
+Hey Sam! Du kannst bei mir wohnen. Ich habe zwei Betten.
+*
+Này Sam! cậu có thể ở nhà tôi. Tôi có hai cái giường.
+
+00:21:47.280 --> 00:21:48.725
+Halt die Klappe Nic!
+*
+Thôi đi, Nic!
+
+00:21:48.760 --> 00:21:51.969
+Sam bleibt hier bei uns. Nicht wahr Sam?
+*
+Sam sẽ ở lại đây với bọn em, được không, Sam?
+
+00:21:52.040 --> 00:21:54.771
+Sam, komm her.
+*
+Sam, lại đây.
+
+00:21:54.800 --> 00:21:56.928
+Setz dich zu mir.
+*
+Ngồi xuống đi nào.
+
+00:21:56.960 --> 00:21:59.930
+Sam, du kannst mich Cha Cha nennen.
+*
+Hãy gọi em là Chacha.
+
+00:22:01.400 --> 00:22:03.767
+Alle meine Freunde nennen mich Cha Cha.
+*
+Tất cả bạn bè đều gọi em là Cha Cha.
+
+00:22:04.840 --> 00:22:06.888
+Louis! Da bist du ja!
+*
+Louis! Mày ở đó à!
+
+00:22:06.920 --> 00:22:11.369
+Ah! Der Hund ist im Ofen.
+*
+Ah! Con chó ở trong lò.
+
+00:22:11.400 --> 00:22:12.925
+Im Ofen?
+*
+Trong lò?
+
+00:22:12.960 --> 00:22:16.328
+Ja, Nic ist ein guter Lehrer.
+*
+Vâng, Nic là thầy giáo tốt!
+
+00:22:16.360 --> 00:22:18.362
+Ich lerne viel Deutsch.
+*
+Mình đã học được nhiều tiếng Đức.
+
+00:22:18.400 --> 00:22:21.768
+Ah, Nic ist ein sehr guter Lehrer.
+*
+Ah, Nic là một thầy giáo rất tốt.
+
+00:22:22.920 --> 00:22:28.484
+Annas Hund schläft im Ofen.
+*
+Con chó của Anna ngủ trong cái lò.
+
+00:22:28.520 --> 00:22:30.124
+Was!
+*
+Cái gì!
+
+00:22:31.880 --> 00:22:34.247
+Hey Leute! Was sitzen wir hier rum?
+*
+Nào mọi người! Sao lại ngồi đây?
+
+00:22:34.280 --> 00:22:37.443
+- Heute ist die Love Parade! * Hôm nay là lễ hội Thiên Đường Tình Yêu (Love Parade)
+- Love Parade? * Love Parade?
+
+00:22:37.480 --> 00:22:40.962
+- Eine Party! * Liên hoa nào!
+- Oh, Party! * Liên hoan!
+
+00:22:46.200 --> 00:22:47.281
+Mein Make-up.
+*
+Em trang điểm tí nhé.
+
+00:22:49.200 --> 00:22:52.090
+Ich muss schnell, ähm, Room Service.
+*
+Tớ gọi nhanh, à,  phục vụ phòng.
+
+00:22:54.720 --> 00:22:56.848
+Hat jemand meine neue Zeitschrift gesehen?
+*
+Có ai đó thấy quyển tạp chí mới của em không?
+
+00:22:59.160 --> 00:23:00.889
+Keine Ahnung.
+*
+Không biết.
+
+00:23:07.000 --> 00:23:08.331
+Ja hallo?
+*
+Vâng allô?
+
+00:23:09.240 --> 00:23:11.163
+Oh nein.
+*
+Oh không.
+
+00:23:11.640 --> 00:23:13.642
+Ja, kommen Sie bitte hoch.
+*
+Vâng, bà lên đi ạ.
+
+00:23:15.800 --> 00:23:17.564
+Hilfe, es ist die Vermieterin!
+*
+Giời ạ, chủ nhà!
+
+00:23:17.600 --> 00:23:19.364
+Was? Die Tarantel?
+*
+Gì? Chủ nhà à?
+
+00:23:19.400 --> 00:23:20.845
+die Hausordnung der Tarantel
+
+00:23:20.880 --> 00:23:23.611
+- Schnell, Sam! Versteck dich! * Nhanh lên nào, Sam trốn đi!
+- Ich muss los! * Tớ biến đây!
+
+00:23:25.480 --> 00:23:28.324
+- Nein, ins Schlafzimmer. * Không, trong phòng ngủ
+- Ah, die Miete. * Ah, thuê nhà là thế đấy.
+
+00:23:36.480 --> 00:23:38.608
+I’m going to love it here Mom.
+*
+Con thích nơi này rồi, mẹ ạ.
+
+00:23:38.640 --> 00:23:40.608
+The Germans are so friendly.
+*
+Người Đức rất là thân thiện.
+
+00:23:42.280 --> 00:23:44.601
+Nächstes Mal in Extra ...
+*
+Trong tập tiếp theo của Extra...
+
+00:23:44.640 --> 00:23:47.769
+Unsere Freunde gehen für Sam einkaufen...
+*
+Các bạn của chúng ta đi mua sắm cho Sam...
+
+00:23:48.800 --> 00:23:51.406
+Sam geht für die Mädchen einkaufen...
+*
+Sam đi mua sắm cho các cô gái...
+
+00:23:52.600 --> 00:23:55.444
+Und Sam geht selber einkaufen.
+*
+Và Sam đi mua sắm cho bản thân anh ấy.
+
+00:23:56.560 --> 00:23:58.528
+Das dürft ihr nicht verpassen!
+*
+Đừng bỏ lỡ tập tiếp theo nhé!
+
