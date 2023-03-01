@@ -1,4 +1,0 @@
-make the monitor and the toggle both run at startup, the toggle should be hooked up to a hotkey
-change the file that it saves to be the obsid clipboard
-make it append to the top instead of the bottom so it is the same as phone
-phone should not have those extra spaces
