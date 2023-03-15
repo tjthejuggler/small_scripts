@@ -1,20 +1,8 @@
-TODO NEW JSON SYSTEM
-    put update habitsdb/daily task in all the habitsdb
-    read from the db for setting the icon colors
-    move everything used over to a new activity to clean up what is no longer needed
-    deal with todos_done
-    make a counter that sees how many days the streak for each one is, and the dadys without, and the longest streak
-        put all this info in the label of each icon
-
-we may want some automatic backup system since the db gets totally cleared if there is a bug
-
-todos_done needs special attention
+move everything used over to a new activity to clean up what is no longer needed
 
 make a check if a task exists when we add counter to it,
     if it doesnt exist, flash that a new habit has been made
 
-always check before writing db that there actually is a db there
-
-set up both systems to work together at first
-when i push a habit button, add that number to the most recent entry of that habit
-when i hit + , add the next dates up until today, and intermediate dates that were not listed or are today should get 0s
+NICE:
+when i write the db file from tasker, it would be nice it it put everything in order like when i output from python
+when i click a habit it updates the current streak length
