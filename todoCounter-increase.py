@@ -4,6 +4,7 @@ import pyperclip
 import json
 import datetime
 import pyautogui
+import time
 
 def sendmessage(message):
     subprocess.Popen(['notify-send', message])
@@ -53,7 +54,9 @@ if highlighted_text:
     sendmessage(str(counter) + " todos in the queue")
 
     pyautogui.press('delete')
+    time.sleep(0.1)
     pyautogui.press('delete')
+    time.sleep(0.1)
     pyautogui.press('delete')
 
 
