@@ -62,7 +62,10 @@ if highlighted_text:
     habitsdb_to_add["Todos done"] += 1
 
     with open(habitsdb_to_add_dir, 'w') as f:
-        json.dump(habitsdb_to_add, f)
+        json.dump(habitsdb_to_add, f, indent=4, sort_keys=True)
+
+    # with open(habitsdb_to_add_dir, 'w') as f:
+    #     json.dump(habitsdb_to_add, f)
 
     save_highlighted_text_to_file(highlighted_text)
     

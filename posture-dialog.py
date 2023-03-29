@@ -8,7 +8,7 @@ import time
 #this script will que up an 'owed posture'(a computer session with good posture to add to my phone habits) 
 #   next time i unlock my phone i will get credit for having had done a todo item.
 
-def sendmessage(message):
+def notify(message):
     msg = "notify-send ' ' '"+message+"'"
     os.system(msg)
 
@@ -33,7 +33,7 @@ def get_count(file):
 #     with open(file, 'w') as f:
 #         f.write(str(counter))
 #         f.close()
-#     sendmessage("       "*2+str(get_count(good_file)+1) + " - GOOD        ")#                 " + str(get_count(bad_file)) + " - BAD")
+#     notify("       "*2+str(get_count(good_file)+1) + " - GOOD        ")#                 " + str(get_count(bad_file)) + " - BAD")
 
 def update_file():
 
@@ -42,11 +42,14 @@ def update_file():
     with open(habitsdb_to_add_dir, 'r') as f:
         habitsdb_to_add = json.load(f)
 
-    sendmessage(str(habitsdb_to_add["Good posture"] + 1) + " good posture in the queue!")
+    notify(str(habitsdb_to_add["Good posture"] + 1) + " good posture in the queue!")
     habitsdb_to_add["Good posture"] += 1
 
     with open(habitsdb_to_add_dir, 'w') as f:
-        json.dump(habitsdb_to_add, f)
+        json.dump(habitsdb_to_add, f, indent=4, sort_keys=True)
+
+    # with open(habitsdb_to_add_dir, 'w') as f:
+    #     json.dump(habitsdb_to_add, f)
     
     #run the script to update the theme
     time.sleep(1)
