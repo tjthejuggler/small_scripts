@@ -11,6 +11,7 @@ class MouseModeIndicator(QSystemTrayIcon):
         super(MouseModeIndicator, self).__init__(parent)
         self.update_icon()
         self.start_checking()
+        self.start_additional_script_timer()
         self.activated.connect(self.on_tray_icon_clicked)
 
     def update_icon(self):
@@ -37,6 +38,17 @@ class MouseModeIndicator(QSystemTrayIcon):
             script_path = '~/projects/small_scripts/toggle_mouse.sh'
             script_path = os.path.expanduser(script_path)
             subprocess.Popen(['bash', script_path])
+
+    def run_additional_script(self):
+        # Replace 'refresh_mouse.sh' with the actual path to your shell script
+        script_path = '~/projects/small_scripts/refresh_mouse.sh'
+        script_path = os.path.expanduser(script_path)
+        subprocess.Popen(['bash', script_path])
+
+    def start_additional_script_timer(self):
+        self.additional_script_timer = QTimer()
+        self.additional_script_timer.timeout.connect(self.run_additional_script)
+        self.additional_script_timer.start(10000)  # Update every 10 seconds
 
 if __name__ == '__main__':
     time.sleep(8) # Wait for the system tray to be ready
