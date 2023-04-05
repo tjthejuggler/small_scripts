@@ -50,10 +50,10 @@ def main():
         pyautogui.press('delete')
         time.sleep(0.3)
         pyautogui.press('delete')
-        time.sleep(1) #run the script to update the theme
+        time.sleep(3) #run the script to update the theme
         update_theme_script = '~/projects/tail/habits_kde_theme.py'
         update_theme_script = os.path.expanduser(update_theme_script)
         os.system('python3 '+update_theme_script)
 
 if __name__ == "__main__":
-    main()
+    main()  
