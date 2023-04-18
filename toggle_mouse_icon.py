@@ -6,6 +6,11 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import QTimer, QEventLoop
 import time
 
+def notify(message):
+    msg = "notify-send ' ' '"+message+"'"
+    os.system(msg)
+
+
 class MouseModeIndicator(QSystemTrayIcon):
     def __init__(self, parent=None):
         super(MouseModeIndicator, self).__init__(parent)
