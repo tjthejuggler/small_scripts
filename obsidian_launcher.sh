@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Path to Obsidian executable
-OBSIDIAN_PATH="/home/twain/ProgramsUbuntu/squashfs-root/obsidian"
+OBSIDIAN_PATH="/home/twain/ProgramsUbuntu/obsidian-squashfs/obsidian"
+
 
 # Function to check if Obsidian is running
 is_obsidian_running() {
