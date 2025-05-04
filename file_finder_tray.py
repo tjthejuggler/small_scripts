@@ -35,6 +35,9 @@ class FileFinder(QObject):
         self.root_path_action = self.menu.addAction(f"Root Path: {self.get_root_path()}")
         self.root_path_action.triggered.connect(self.change_root_path)
         self.menu.addSeparator()
+        refresh_action = self.menu.addAction("Refresh")
+        refresh_action.triggered.connect(self.refresh_app)
+        self.menu.addSeparator()
         quit_action = self.menu.addAction("Quit")
         quit_action.triggered.connect(self.quit_app)
         
@@ -147,22 +150,31 @@ class FileFinder(QObject):
         matches = []
         print("\nDEBUG: Processing words:")
         for word in words:
-            if '.' in word:  # Must have an extension
-                name, ext = word.rsplit('.', 1)
+            # Handle paths by extracting the last component
+            path_parts = word.replace('\\', '/').split('/')
+            potential_filename = path_parts[-1]
+            
+            # Remove any trailing parenthetical content like "(Phone)"
+            if '(' in potential_filename:
+                potential_filename = potential_filename.split('(')[0].strip()
+            
+            if '.' in potential_filename:  # Must have an extension
+                name, ext = potential_filename.rsplit('.', 1)
                 if name and ext.lower() in valid_extensions:  # Must have name and valid extension
-                    print(f"Found valid filename: '{word}'")
-                    matches.append(word)
+                    print(f"Found valid filename: '{potential_filename}' from '{word}'")
+                    # Store both the original path and the extracted filename
+                    matches.append((word, potential_filename))
                 else:
-                    print(f"Skipping invalid filename: '{word}'")
+                    print(f"Skipping invalid filename: '{potential_filename}' from '{word}'")
             else:
-                print(f"Skipping no extension: '{word}'")
+                print(f"Skipping no extension: '{potential_filename}' from '{word}'")
         
         print("\nDEBUG: Final matches:", matches if matches else "None")
         return matches
 
-    def find_files(self, filenames):
-        """Find multiple files by exact name match in root directory"""
-        if not filenames:
+    def find_files(self, filename_tuples):
+        """Find multiple files by name match in root directory"""
+        if not filename_tuples:
             return [], "empty"
             
         root_path = Path(self.get_root_path())
@@ -170,13 +182,43 @@ class FileFinder(QObject):
         not_found = []
         
         try:
-            for filename in filenames:
-                matches = list(root_path.rglob(filename))
-                if matches:
-                    # Take the first match for each filename
-                    found_files.append(matches[0])
-                else:
-                    not_found.append(filename)
+            for original_path, filename in filename_tuples:
+                print(f"Searching for '{filename}' (from '{original_path}')")
+                
+                # First try: exact match with the original path
+                exact_matches = list(root_path.rglob(original_path))
+                if exact_matches:
+                    print(f"Found exact match: {exact_matches[0]}")
+                    found_files.append(exact_matches[0])
+                    continue
+                
+                # Second try: search for the filename only
+                basename_matches = list(root_path.rglob(filename))
+                if basename_matches:
+                    print(f"Found by basename: {basename_matches[0]}")
+                    found_files.append(basename_matches[0])
+                    continue
+                
+                # Third try: search for partial path match
+                # Split the original path into components
+                path_parts = original_path.replace('\\', '/').split('/')
+                
+                # Try to match increasingly longer path segments from the end
+                found = False
+                for i in range(1, min(len(path_parts) + 1, 5)):  # Limit to 4 segments for performance
+                    partial_path = '/'.join(path_parts[-i:])
+                    print(f"Trying partial path: {partial_path}")
+                    
+                    # Use ** wildcard to match any directory structure
+                    partial_matches = list(root_path.glob(f"**/{partial_path}"))
+                    if partial_matches:
+                        print(f"Found by partial path: {partial_matches[0]}")
+                        found_files.append(partial_matches[0])
+                        found = True
+                        break
+                
+                if not found:
+                    not_found.append(original_path)
                     
             if not found_files:
                 return [], "not_found"
@@ -232,20 +274,20 @@ class FileFinder(QObject):
                 self.show_notification("Error", "No text selected")
                 return
                 
-            filenames = self.extract_filenames(selected_text)
-            if not filenames:
+            filename_tuples = self.extract_filenames(selected_text)
+            if not filename_tuples:
                 self.show_notification(
                     "No Files Found",
                     "No valid filenames found in selected text"
                 )
                 return
                 
-            found_files, status = self.find_files(filenames)
+            found_files, status = self.find_files(filename_tuples)
             
             if status == "not_found":
                 self.show_notification(
                     "Files Not Found",
-                    f"No files found matching: {', '.join(filenames)}"
+                    f"No files found matching: {', '.join([original for original, _ in filename_tuples])}"
                 )
             elif status in ["found", "partial"]:
                 copy_result = self.copy_files_info(found_files)
@@ -265,6 +307,15 @@ class FileFinder(QObject):
                         "Failed to copy file information"
                     )
 
+    def refresh_app(self):
+        """Restart the application to apply code changes"""
+        self.show_notification("Refreshing", "Restarting application to apply changes...")
+        # Use subprocess to run the start script
+        script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "start_file_finder.sh")
+        subprocess.Popen([script_path])
+        # Quit the current instance
+        QApplication.quit()
+        
     def quit_app(self):
         """Quit the application"""
         QApplication.quit()
