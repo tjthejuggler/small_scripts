@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=File Finder Tray
+Comment=File Finder system tray utility
+Exec=/home/twain/Projects/small_scripts/start_file_finder.sh
+Icon=system-search
+Terminal=false
+Categories=Utility;
+X-GNOME-Autostart-enabled=true
