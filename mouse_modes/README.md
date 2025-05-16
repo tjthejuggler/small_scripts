@@ -1,6 +1,6 @@
 # Mouse Mode Switching System
 
-This system allows switching between different sets of mouse button configurations by pressing the volume up button when no volume button has been pressed in the last 5 seconds.
+This system allows switching between different sets of mouse button configurations by pressing the volume up button when no volume button has been pressed in the last 5 seconds. When switching modes, the volume is not increased.
 
 ## Directory Structure
 

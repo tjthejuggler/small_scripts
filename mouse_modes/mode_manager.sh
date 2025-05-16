@@ -6,7 +6,7 @@ LAST_VOLUME_PRESS_FILE="/tmp/mouse_mode_last_volume_press"
 MODE_TIMEOUT=1 # seconds
 
 # Available modes
-MODES=("default" "alternate" "custom_mode")
+MODES=("default" "custom_mode")
 NUM_MODES=${#MODES[@]}
 
 # Initialize mode file if it doesn't exist
@@ -65,16 +65,15 @@ switch_to_next_mode() {
 # Function to handle volume up press with mode switching logic
 handle_volume_up() {
     if was_volume_pressed_recently; then
-        # Volume was pressed recently, just update the time
+        # Volume was pressed recently, just update the time and increase volume
         update_volume_press_time
         # Execute the actual volume up script
         /home/twain/Projects/small_scripts/volume_up_10.sh
     else
         # Volume wasn't pressed recently, switch mode and update time
+        # But don't increase volume when switching modes
         update_volume_press_time
         switch_to_next_mode
-        # Execute the actual volume up script
-        /home/twain/Projects/small_scripts/volume_up_10.sh
     fi
 }
 
