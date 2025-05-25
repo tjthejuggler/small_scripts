@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Audio Fix
+Comment=Fixes audio issues by restarting services and launching pavucontrol
+Exec=/home/twain/Projects/small_scripts/fix_audio.sh
+Terminal=false
+X-GNOME-Autostart-enabled=true
+Hidden=false
