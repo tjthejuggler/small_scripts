@@ -17,7 +17,7 @@ log() {
 }
 
 # Clear log file if it's larger than 1MB
-if [ -f "$LOG_FILE" ] && [ $(stat -f%z "$LOG_FILE") -gt 1048576 ]; then
+if [ -f "$LOG_FILE" ] && [ $(stat -c%s "$LOG_FILE") -gt 1048576 ]; then
     echo "# Log file cleared $(date)" > "$LOG_FILE"
 fi
 
