@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import datetime
-import sys
+import subprocess
+import time
 
 now = datetime.datetime.now()
-print(now.strftime("%Y-%m-%d %H:%M:%S"), end="")
+datetime_string = now.strftime("%Y-%m-%d %H:%M:%S")
+
+subprocess.run(['xdotool', 'type', '--clearmodifiers', datetime_string])
