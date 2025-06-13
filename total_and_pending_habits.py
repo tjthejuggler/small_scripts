@@ -2,11 +2,11 @@ import json
 import os
 
 def get_summary():
-    habitsdb_to_add_dir = '~/Documents/obsidian_note_vault/noteVault/habitsdb_to_add.txt'
+    habitsdb_to_add_dir = '/home/twain/noteVault/habitsdb_to_add.txt'
     habitsdb_to_add_dir = os.path.expanduser(habitsdb_to_add_dir)
     with open(habitsdb_to_add_dir, 'r') as f:
         habitsdb_to_add = json.load(f)
-    habitsdb_dir = '~/Documents/obsidian_note_vault/noteVault/habitsdb.txt'
+    habitsdb_dir = '/home/twain/noteVault/habitsdb.txt'
     habitsdb_dir = os.path.expanduser(habitsdb_dir)
     today_total = 0
     with open(habitsdb_dir, 'r') as f:

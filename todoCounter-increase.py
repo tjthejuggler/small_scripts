@@ -22,7 +22,7 @@ def get_primary_clipboard():
     return output
 
 def save_highlighted_text_to_file(text):
-    filename = '/home/lunkwill/Documents/obsidian_note_vault/noteVault/tail/tododb.txt'
+    filename = '/home/twain/noteVault/tail/tododb.txt'
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     try:
         with open(filename, "r") as f:
@@ -36,7 +36,7 @@ def save_highlighted_text_to_file(text):
 def main():
     highlighted_text = get_primary_clipboard()
     if highlighted_text:
-        habitsdb_to_add_dir = '~/Documents/obsidian_note_vault/noteVault/habitsdb_to_add.txt'
+        habitsdb_to_add_dir = '/home/twain/noteVault/habitsdb_to_add.txt'
         habitsdb_to_add_dir = os.path.expanduser(habitsdb_to_add_dir)
         with open(habitsdb_to_add_dir, 'r') as f:
             habitsdb_to_add = json.load(f)        
