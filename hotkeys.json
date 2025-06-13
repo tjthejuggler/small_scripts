@@ -1,0 +1,12 @@
+[
+    {
+        "hotkey": "Ctrl+Print",
+        "description": "Extract Text",
+        "script_path": "/home/twain/Projects/small_scripts/run_extract_text_from_selection.sh"
+    },
+    {
+        "hotkey": "Ctrl+Meta+T",
+        "description": "Todo Counter",
+        "script_path": "/home/twain/Projects/small_scripts/run_todo_counter.sh"
+    }
+]
