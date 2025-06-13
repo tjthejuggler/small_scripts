@@ -2,4 +2,4 @@
 
 # Run the hotkey manager script
 
-python3 hotkey_manager.py
+python3 /home/twain/Projects/small_scripts/hotkey_manager.py

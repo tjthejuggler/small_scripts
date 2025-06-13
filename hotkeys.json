@@ -8,5 +8,20 @@
         "hotkey": "Ctrl+Meta+T",
         "description": "Todo Counter",
         "script_path": "/home/twain/Projects/small_scripts/run_todo_counter.sh"
+    },
+    {
+        "hotkey": "Ctrl+Meta+D",
+        "description": "Insert Date/Time",
+        "script_path": "/home/twain/Projects/small_scripts/insert_datetime.sh"
+    },
+    {
+        "hotkey": "Alt+Esc",
+        "description": "Restart Plasma Shell",
+        "script_path": "plasmashell --replace &"
+    },
+    {
+        "hotkey": "Ctrl+Alt+Shift+Meta+Space",
+        "description": "Hotkey Helper",
+        "script_path": "/home/twain/Projects/small_scripts/run_hotkey_manager.sh"
     }
 ]

@@ -46,7 +46,9 @@ class HotkeyManager:
                   foreground=[('active', dark_fg)])
 
         self.hotkeys = []
-        self.hotkeys_file = "hotkeys.json"
+        # Construct absolute path to hotkeys.json in the script's directory
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        self.hotkeys_file = os.path.join(script_dir, "hotkeys.json")
 
         # --- Input Fields Frame ---
         self.input_frame = ttk.Frame(master, padding="10", style="TFrame") # Store as self.input_frame
