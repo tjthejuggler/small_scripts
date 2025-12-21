@@ -23,5 +23,20 @@
         "hotkey": "Ctrl+Alt+Shift+Meta+Space",
         "description": "Hotkey Helper",
         "script_path": "/home/twain/Projects/small_scripts/run_hotkey_manager.sh"
+    },
+    {
+        "hotkey": "Ctrl+Meta+J",
+        "description": "Json To Anki",
+        "script_path": "/home/twain/Projects/grammarpt/json_clipboard_to_anki.sh"
+    },
+    {
+        "hotkey": "Ctrl+Meta+A",
+        "description": "Paste Anki Prompt",
+        "script_path": "/home/twain/paste_my_snippet.sh"
+    },
+    {
+        "hotkey": "Ctrl+Meta+B",
+        "description": "Cycle Keyboard Backlight When Attached",
+        "script_path": "/home/twain/Projects/small_scripts/cycle-backlight.sh"
     }
 ]

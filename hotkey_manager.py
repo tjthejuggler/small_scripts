@@ -1,7 +1,15 @@
-import tkinter as tk
-from tkinter import ttk, font as tkFont # Import ttk and font
 import json
 import os
+import sys
+
+# Fix for XCB threading issues on Linux - MUST be set before importing tkinter
+if sys.platform.startswith('linux'):
+    os.environ['PYTHONUNBUFFERED'] = '1'
+    # Critical: Disable threaded X11 to prevent XCB conflicts
+    os.environ['TK_SILENCE_DEPRECATION'] = '1'
+
+import tkinter as tk
+from tkinter import ttk, font as tkFont # Import ttk and font
 
 class HotkeyManager:
     def __init__(self, master):
