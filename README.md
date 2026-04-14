@@ -2,7 +2,7 @@
 
 A collection of useful utility scripts for various tasks.
 
-*Last updated: 2025-08-24T11:13:05Z*
+*Last updated: 2026-04-14T18:18:21Z*
 
 ## PDF Splitter
 
@@ -55,10 +55,36 @@ Each PDF contains pages starting after the previous number and ending at (and in
 ### Dependencies
 - `pypdf>=3.0.0`
 
+## ADB over Tailscale
+
+### Description
+`tailscape_adb_debug.py` - GUI script to connect to an Android phone via ADB over a Tailscale network on port 5555.
+
+### Features
+- Remembers the last used Tailscale IP
+- Connects on port 5555 (fast, simple, like it should be)
+- **Self-healing**: if port 5555 is down (e.g. after phone reboot), auto-discovers the Wireless Debugging random port via `nmap`, connects on it, runs `adb tcpip 5555` to restore port 5555, then reconnects
+
+### Usage
+```bash
+python tailscape_adb_debug.py
+```
+
+### Initial Setup (one-time)
+1. Connect phone via USB
+2. Run `adb tcpip 5555` — this enables port 5555 on the phone
+3. Disconnect USB — port 5555 persists until the phone reboots
+
+If the phone reboots and port 5555 stops, the script auto-fixes it as long as Wireless Debugging is enabled on the phone.
+
+### Dependencies
+- `nmap` (recommended, for auto port recovery): `sudo apt install nmap`
+
 ## Other Scripts
 
 This directory contains various utility scripts for different purposes:
 
+- **ADB & Device**: `tailscape_adb_debug.py`
 - **Audio & System Scripts**: `fix_audio.sh`, `restart_audio_services.sh`, `refresh_mouse.sh`
 - **Clipboard & Text Processing**: `clipboard_newlines.py`, `extract_text_from_selection.py`, `selection_translator.py`
 - **File Management**: `file_finder_tray.py`, `launch-or-activate.sh`
