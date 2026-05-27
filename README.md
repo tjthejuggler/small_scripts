@@ -2,7 +2,7 @@
 
 A collection of useful utility scripts for various tasks.
 
-*Last updated: 2026-04-14T18:18:21Z*
+*Last updated: 2026-05-27T07:29:00Z*
 
 ## PDF Splitter
 
@@ -64,6 +64,8 @@ Each PDF contains pages starting after the previous number and ending at (and in
 - Remembers the last used Tailscale IP
 - Connects on port 5555 (fast, simple, like it should be)
 - **Self-healing**: if port 5555 is down (e.g. after phone reboot), auto-discovers the Wireless Debugging random port via `nmap`, connects on it, runs `adb tcpip 5555` to restore port 5555, then reconnects
+- **Timeout-protected**: all subprocess calls have timeouts (10s for ADB, 30s for nmap) so the script can never hang indefinitely
+- **Force-kill fallback**: if `adb kill-server` hangs (stuck ADB server), the script force-kills the server process and continues
 
 ### Usage
 ```bash

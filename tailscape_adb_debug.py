@@ -16,9 +16,14 @@ from tkinter import simpledialog, messagebox
 import time
 import os
 import re
+import signal
 
 CONFIG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".tailscape_last_ip")
 PORT = "5555"
+
+# Timeouts (seconds) — prevent any subprocess from hanging forever
+ADB_TIMEOUT = 10
+NMAP_TIMEOUT = 30
 
 
 def load_last_ip():
@@ -33,25 +38,57 @@ def save_last_ip(ip):
         f.write(ip)
 
 
-def run_command(command):
-    result = subprocess.run(command, shell=True, text=True, capture_output=True)
-    output = result.stdout.strip()
-    if result.stderr:
-        output += "\n" + result.stderr.strip()
-    return output
+def run_command(command, timeout=ADB_TIMEOUT):
+    """Run a shell command with a timeout so it can never hang indefinitely."""
+    try:
+        result = subprocess.run(command, shell=True, text=True,
+                               capture_output=True, timeout=timeout)
+        output = result.stdout.strip()
+        if result.stderr:
+            output += "\n" + result.stderr.strip()
+        return output
+    except subprocess.TimeoutExpired:
+        return f"[TIMEOUT] Command timed out after {timeout}s: {command}"
 
 
 def is_connected(result_text):
     low = result_text.lower()
-    return "connected" in low and "refused" not in low and "failed" not in low
+    return "connected" in low and "refused" not in low and "failed" not in low and "[timeout]" not in low
+
+
+def kill_adb_server():
+    """Kill the ADB server. If 'adb kill-server' hangs, force-kill the process."""
+    # Try the graceful way first
+    result = run_command("adb kill-server", timeout=5)
+    if "[TIMEOUT]" not in result:
+        return
+
+    # adb kill-server hung — force-kill the adb server process
+    try:
+        # Find the adb server process (it listens on tcp:5037)
+        pgrep = subprocess.run(
+            ["pgrep", "-f", "adb.*fork-server"],
+            capture_output=True, text=True, timeout=5
+        )
+        pids = pgrep.stdout.strip().split()
+        for pid in pids:
+            if pid:
+                os.kill(int(pid), signal.SIGKILL)
+        time.sleep(0.5)
+    except Exception:
+        pass
 
 
 def scan_for_adb_port(ip):
     """Use nmap to find open ports in the Wireless Debugging range."""
-    result = subprocess.run(
-        ["nmap", "-p", "30000-50000", "-T4", "--open", ip],
-        text=True, capture_output=True
-    )
+    try:
+        result = subprocess.run(
+            ["nmap", "-p", "30000-50000", "-T4", "--open", ip],
+            text=True, capture_output=True, timeout=NMAP_TIMEOUT
+        )
+    except subprocess.TimeoutExpired:
+        return []
+
     ports = []
     for match in re.finditer(r"(\d+)/tcp\s+open", result.stdout):
         ports.append(int(match.group(1)))
@@ -84,8 +121,8 @@ def main():
 
     save_last_ip(phone_ip)
 
-    # Restart ADB server
-    run_command("adb kill-server")
+    # Restart ADB server (with force-kill fallback if it's stuck)
+    kill_adb_server()
     run_command("adb start-server")
     time.sleep(1)
 
@@ -100,7 +137,7 @@ def main():
 
     # Port 5555 failed — try to self-heal
     has_nmap = subprocess.run(
-        ["which", "nmap"], capture_output=True
+        ["which", "nmap"], capture_output=True, timeout=5
     ).returncode == 0
 
     if has_nmap:
