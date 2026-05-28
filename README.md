@@ -2,7 +2,7 @@
 
 A collection of useful utility scripts for various tasks.
 
-*Last updated: 2026-05-27T07:29:00Z*
+*Last updated: 2026-05-28T06:45:00Z*
 
 ## PDF Splitter
 
@@ -96,6 +96,7 @@ This directory contains various utility scripts for different purposes:
 - **Todo Management**: `todoCounter-increase.py`, `random_todo_item.py`
 - **Wallpaper Scripts**: Various scripts in `wallpaper-scripts/` directory
 - **Word Processing**: `frequent_words.py`, `state_wordsearch.py`
+- **HotelEyes Security Camera**: `/opt/hoteleyes/hoteleyes.sh` - Security camera system with motion detection, Telegram notifications, delayed multi-frame capture, live stream, and web-controlled alarm system.
 
 ## Installation & Setup
 
