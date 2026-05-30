@@ -2,7 +2,7 @@
 
 A collection of useful utility scripts for various tasks.
 
-*Last updated: 2026-05-28T06:45:00Z*
+*Last updated: 2026-05-29T21:14:00Z*
 
 ## PDF Splitter
 
@@ -87,7 +87,7 @@ If the phone reboots and port 5555 stops, the script auto-fixes it as long as Wi
 This directory contains various utility scripts for different purposes:
 
 - **ADB & Device**: `tailscape_adb_debug.py`
-- **Audio & System Scripts**: `fix_audio.sh`, `restart_audio_services.sh`, `refresh_mouse.sh`
+- **Audio & System Scripts**: `record_laptop_audio.sh`, `fix_audio.sh`, `restart_audio_services.sh`, `refresh_mouse.sh`, `vlc_toggle.sh`
 - **Clipboard & Text Processing**: `clipboard_newlines.py`, `extract_text_from_selection.py`, `selection_translator.py`
 - **File Management**: `file_finder_tray.py`, `launch-or-activate.sh`
 - **Habit Tracking**: `obsid_habits_scrape.py`, `scrape_loop_habits.py`, `total_and_pending_habits.py`
@@ -97,6 +97,57 @@ This directory contains various utility scripts for different purposes:
 - **Wallpaper Scripts**: Various scripts in `wallpaper-scripts/` directory
 - **Word Processing**: `frequent_words.py`, `state_wordsearch.py`
 - **HotelEyes Security Camera**: `/opt/hoteleyes/hoteleyes.sh` - Security camera system with motion detection, Telegram notifications, delayed multi-frame capture, live stream, and web-controlled alarm system.
+
+## VLC Toggle
+
+### Description
+`vlc_toggle.sh` - Toggle VLC media player play/pause. If VLC is not running, launches it.
+
+### Usage
+```bash
+./vlc_toggle.sh
+```
+
+### How it works
+Uses the MPRIS2 D-Bus interface (`org.mpris.MediaPlayer2.vlc`) to send a `PlayPause` signal. If VLC is not on the session bus, it launches VLC in the background. No dependencies beyond a standard Linux desktop with D-Bus.
+
+## Laptop Audio Recorder
+
+### Description
+`record_laptop_audio.sh` - Record system audio output even when the physical volume is turned down or muted. Perfect for long-running recordings (e.g., 6.5 hours) without disturbing others.
+
+### Features
+- **Silent Recording**: Creates a virtual null sink and routes all system audio to it. You can safely mute or turn down your laptop speakers, and the recording will still capture everything at full volume.
+- **Loopback Support**: Automatically sets up a loopback so you can still hear the audio if you turn up your physical volume.
+- **Auto-routing**: Automatically moves all currently playing audio streams to the virtual sink when recording starts, and restores them when finished.
+- **Configurable Duration**: Supports flexible duration formats (e.g., `6.5h`, `30m`, `120s`, or raw seconds).
+- **On-the-fly Compression**: Encodes directly to high-quality MP3 (192 kbps) to save gigabytes of disk space over long recording sessions.
+- **Graceful Cleanup**: Uses a robust signal trap to ensure that even if interrupted (Ctrl+C), the script restores your original audio configuration and unloads virtual modules.
+
+### Usage
+```bash
+./record_laptop_audio.sh [duration] [output_file]
+```
+
+#### Examples
+```bash
+# Record for 6.5 hours (default) and save to a timestamped MP3 file
+./record_laptop_audio.sh
+
+# Record for 6.5 hours and save to a specific file
+./record_laptop_audio.sh 6.5h my_lecture.mp3
+
+# Record for 30 minutes
+./record_laptop_audio.sh 30m meeting.mp3
+
+# Record for 10 seconds (quick test)
+./record_laptop_audio.sh 10s test.mp3
+```
+
+### Dependencies
+- `ffmpeg` (with PulseAudio support)
+- `pactl` (PulseAudio/PipeWire control utility)
+- `bc` (arbitrary precision calculator)
 
 ## Installation & Setup
 
